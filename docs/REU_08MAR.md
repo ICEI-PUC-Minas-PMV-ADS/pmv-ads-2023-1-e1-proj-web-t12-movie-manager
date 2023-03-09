@@ -6,12 +6,12 @@ Acho um prazo folgado desde que a gente trabalhe junto. Mas, se alguém tiver di
 
 Eu gostaria de sugerir a vocês atacar o problema em duas fases:
 
-1. *Primera fase. ( até domingo 12MAR )*
+1. **Primera fase ( até domingo 12MAR )**
 
 > Como são seis tópicos (listados a seguir), sugiro cada um ficar encarregado de elaborar um tópico e revisar outro.
 > Desta forma, cada tópico será feito por dois de nós. Até domingo, cada um de nós prontificaria o seu e informaria o revisor.
 
-2. *Segunda fase (até quarta 15MAR) *
+2. **Segunda fase ( até quarta 15MAR )**
 > A gente se reune e troca impressões texto no geral. Todos falando sobre tudo. O objetivo é identificar
 > onde cabem eventuais alterações e definindo quem as farão.
 > O esperado nesta fase é que não tenha grandes alterações já que o trabalho é simples.
@@ -21,26 +21,32 @@ Caso vocês concordem, segue uma lista para preenchimento já com meu nome em do
 
 - Introdução
 > Autor:
+> 
 > Revisor:
 	
 - Problema
 > Autor:
+> 
 > Revisor:
 	
 - Objetivos
 > Autor:
-> Revisor: Sales
+> 
+> Revisor: **Sales**
 	
 - Justificativa
 > Autor:
+> 
 > Revisor:
 	
 - Trabalhos relacionados (soluções que já existem)
-> Autor: Sales
+> Autor: **Sales**
+> 
 > Revisor:
 	
 - Público-Alvo
 > Autor:
+> 
 > Revisor:
 	
 PS:
