@@ -4,16 +4,7 @@ Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o pr
 
 ## Problema
 
-- Abundância de diferentes serviços de streaming
-- Dificuldade em lembrar o que foi assistido
-- Pela quantidade de redes sociais, temas relacionados aos seus filmes assistidos podem fica diluido em outras informações
-- "Pesquisar sobre fadiga de decisão"
-
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Esse projeto busca resolver o problema de entusiastas de cinema que não têm um histórico de filmes assistidos nem uma lista de filmes que desejam assistir. Sem um registro, pode ser difícil lembrar de todos os filmes que foram assistidos ao longo dos anos e assim perder a oportunidade de compartilhar opiniões e discutir filmes com mais facilidade.
 
 ## Objetivos
 
