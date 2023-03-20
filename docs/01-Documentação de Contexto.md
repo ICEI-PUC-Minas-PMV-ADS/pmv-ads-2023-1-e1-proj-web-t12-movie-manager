@@ -52,10 +52,16 @@ Diversas são as ferramentas que auxiliam usuários a criarem listas de filmes. 
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+No passado, o consumo de filmes era feito em salas de cinema, locadoras de fitas ou pela televisão, com acesso limitado em casa e dependente da disponibilidade de locadoras e programação de TV. O consumo era geralmente um evento social fora de casa, sem as tecnologias disponíveis atualmente.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+No entanto, o streaming revolucionou a forma como as pessoas consomem filmes e séries no mundo atual, proporcionando um acesso inédito a uma grande variedade de conteúdos audiovisuais. Consumir esse tipo de produto se tornou um novo passatempo para a maioria das pessoas. Com a chegada da pandemia, esse consumo aumentou ainda mais, já que as pessoas passaram a ficar mais tempo em casa e procuraram alternativas para se entreter. Assim, o streaming se tornou uma forma de escapismo e conexão com o mundo exterior para muitas pessoas, independentemente da idade.
+
+De acordo com uma pesquisa da MindMiners em parceria com a Toluna e divulgada pela ABRANET, 91% dos brasileiros consomem filmes e séries pelo menos uma vez por semana em plataformas digitais. Entretanto, é importante notar que esse consumo varia entre uma faixa etária média de 18 até 55 anos [^1].
+
+Destarte, diante da vasta oferta de filmes e séries disponíveis nos serviços digitais, tornou-se cada vez mais difícil para o público jovem-adulto médio escolher o que assistir. A fadiga de decisão, causada pela sobrecarga de informações e opções, tem se tornado um problema comum. Por essa razão, tornou-se necessária a criação de ferramentas que facilitem a escolha do que assistir. O objetivo dessa ferramenta é reduzir a carga cognitiva do usuário, proporcionando sugestões personalizadas e listas pré-selecionadas, garantindo que as escolhas sejam mais precisas e agradáveis. Dessa forma, o público pode desfrutar do entretenimento sem ter que gastar tempo e energia em decisões difíceis, tendo uma conexão de filmes e séries a perfis de usuários.
+
+[^1]: https://abrir.link/QbLhf
+
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
