@@ -1,6 +1,12 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Bem-vindo ao nosso software de recomendação de filmes! Nosso aplicativo foi desenvolvido para economizar seu tempo e ajudá-lo a encontrar o filme perfeito para assistir com base em suas preferências. Com uma vasta coleção de filmes para escolher, nosso software oferece recomendações de filmes personalizadas de acordo com seus gostos e interesses.
+
+Esteja você a fim de uma comédia romântica, um thriller cheio de suspense ou uma aventura cheia de ação, nosso software pode ajudá-lo a encontrar o filme certo para a hora certa. Nosso recurso de pesquisa permite que você encontre filmes que atendam critérios a sua escolha, como filmes indicados ao Oscar em uma categoria específica. Você também pode filtrar os resultados da pesquisa com base na classificação, ano de lançamento e outros fatores.
+
+Nesta documentação, você encontrará informações detalhadas sobre como usar nosso software, incluindo como navegar na interface, como pesquisar filmes e como receber recomendações personalizadas. Também incluímos informações sobre como nosso mecanismo de recomendação funciona e como personalizar suas configurações para aproveitar ao máximo nosso software.
+
+No geral, nosso software de recomendação de filmes é uma ótima ferramenta para quem deseja encontrar rápida e facilmente o filme perfeito para assistir, poupando tempo para preparar a pipoca. Então sente-se, relaxe e deixe nosso software fazer o trabalho para você!
 
 ## Problema
 
