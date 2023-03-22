@@ -12,7 +12,7 @@ Desenvolvimento de aplicação que permita aos seus usuários manterem um histó
 
 * Ana Maria;
 * Gabriel Lourenço;
-* Matheus Maia
+* Matheus Maia;
 * Matheus Ramos;
 * Raimundo Sales;
 * Tiago Carvalho.
