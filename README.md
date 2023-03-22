@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# MOVIE MANAGER
 
 `CURSO`
 
@@ -6,14 +6,16 @@
 
 `SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Desenvolvimento de aplicação que permita aos seus usuários manterem um histórico de seus filmes assistidos e dos que pretende assistir.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Ana Maria;
+* Gabriel Lourenço;
+* Matheus Maia
+* Matheus Ramos;
+* Raimundo Sales;
+* Tiago Carvalho.
 
 ## Orientador
 
