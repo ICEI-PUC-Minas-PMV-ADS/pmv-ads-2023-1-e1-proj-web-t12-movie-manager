@@ -4,9 +4,8 @@ Os aplicativos são utilizados nas mais diversas atividades rotineiras, como com
 O dia-a-dia de muitos trabalhadores e estudantes de grandes cidades brasileiras tem uma coisa em comum: tempo escasso.
 Os serviços de streaming, com seu rico catálogo, potencializaram esta opção de lazer que é segura e cabe na agenda mais concorrida.
 Entretanto, dada a grande variedade de filmes disponíveis, muitas vezes o usuário se vê perdendo precioso tempo em uma lista interminável de opções.
-E é exatamente aí que entra este projeto: permitir o maior aproveitamento do tempo de lazer disponível.
-Com o objetivo maior de economizar o tempo disponível, possuirá também diversas funcionalidades com base nas preferências do usuário,
-contribuindo, desta forma, para o seu bem estar.
+O objetivo deste projeto é permitir o maior aproveitamento do tempo de lazer disponível ao reduzir o tempo de escolha do filme ou série.
+Deverá também disponibilizar algumas funcionalidades apoiadas nas preferências do usuários, como histórico, filtros, dentre outros.
 
 ## Problema
 
