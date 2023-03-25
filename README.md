@@ -10,12 +10,12 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
-* Matheus da Silva Ramos
-* Matheus Henrique Maia Sousa
-* Tiago Carvalho Taveira Araujo 
-* Ana Maria Pessoa 
-* Gabriel Santana Lourenço
-* Raimundo Sales de Melo Neto
+* Matheus da Silva Ramos;
+* Matheus Henrique Maia Sousa;
+* Tiago Carvalho Taveira Araujo; 
+* Ana Maria Pessoa;
+* Gabriel Santana Lourenço;
+* Raimundo Sales de Melo Neto.
 
 ## Orientador
 
