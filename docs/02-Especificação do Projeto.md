@@ -48,8 +48,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Permitir que o usuário se increva e faça login na aplicação usando seu e-mail e senha| ALTA | 
+|RF-002| Se necessário, o usuário poderá redefinir sua senha da aplicação usando seu e-mail| ALTA |
+|RF-003| A aplicação deverá manter banco de dados atualizado de filmes incluindo informações como título, diretor, elenco e data de lançamento| ALTA |
+|RF-004| A aplicação deve permitir que os usuários criem uma <em>watchlist</em> de filmes que assistiram e que desejam assistir| ALTA |
+|RF-005| A aplicacação será capaz de emitir um gráfico de radar baseado no genêro dos filmes assistidos| MÉDIA |
+|RF-006|Os usuários poderão criar e gerenciar seus perfis e, inclusive, poderão adicionar foto de perfil| MÉDIA |
+|RF-007| A aplicacação irá se integrar com plataformas de straming para que os usuários possam saber a disponibilidade dos filmes| BAIXA |
+|RF-008| A aplicacação irá oferecer recomendações de filmes para os usuários com base no histórico dos filmes cadastrados na <em>watchlist</em>.| BAIXA |
 
 
 ### Requisitos não Funcionais
@@ -57,6 +63,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
+|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA |
+|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
@@ -82,6 +93,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
+|03| O projeto deve ser elaborado apenas com HTML, CSS e JavaScript   |
+
 
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
