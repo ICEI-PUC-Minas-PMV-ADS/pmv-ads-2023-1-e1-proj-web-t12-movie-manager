@@ -49,26 +49,35 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-001| Permitir que o usuário se increva e faça login na aplicação usando seu e-mail e senha| ALTA | 
-|RF-002| Se necessário, o usuário poderá redefinir sua senha da aplicação usando seu e-mail| ALTA |
-|RF-003| A aplicação deverá manter banco de dados atualizado de filmes incluindo informações como título, diretor, elenco e data de lançamento| ALTA |
-|RF-004| A aplicação deve permitir que os usuários criem uma <em>watchlist</em> de filmes que assistiram e que desejam assistir| ALTA |
-|RF-005| A aplicacação será capaz de emitir um gráfico de radar baseado no genêro dos filmes assistidos| MÉDIA |
-|RF-006|Os usuários poderão criar e gerenciar seus perfis e, inclusive, poderão adicionar foto de perfil| MÉDIA |
-|RF-007| A aplicacação irá se integrar com plataformas de straming para que os usuários possam saber a disponibilidade dos filmes| BAIXA |
-|RF-008| A aplicacação irá oferecer recomendações de filmes para os usuários com base no histórico dos filmes cadastrados na <em>watchlist</em>.| BAIXA |
+|RF-002| Permitir ao usuário redefinir sua senha da aplicação usando seu e-mail| ALTA |
+|RF-003| A aplicação deverá realizar integração com API de filmes| ALTA |
+|RF-004| A aplicação deverá apresentar para cada filme consultado a respectiva imagem da capa com título do filme| ALTA |
+|RF-005| A aplicação deverá permitir ao usuário consultar os dados do filme (nome do filme, atores, diretores e sinopse)| ALTA |
+|RF-006| A aplicação deverá oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar um filme específico que será
+informado na caixa de pesquisa.| ALTA |
+|RF-007| A aplicação deve permitir que os usuários criem uma lista de filmes que assistiram| ALTA |
+|RF-008| A aplicação deve permitir que os usuários criem uma lista de filmes que desejam assistir| ALTA |
+|RF-009| A aplicacação será capaz de emitir um gráfico de radar baseado no genêro dos filmes assistidos| MÉDIA |
+|RF-010| Os usuários poderão criar seus perfis na aplicação| MÉDIA |
+|RF-011| Os usuários poderão gerenciar seus perfis na aplicação| MÉDIA |
+|RF-012| Os usuários poderão inserir foto de perfil em suas contas| MÉDIA |
+|RF-013| A aplicacação irá se integrar com plataformas de streaming para que os usuários possam saber a disponibilidade dos filmes| BAIXA |
+|RF-014| A aplicacação deve permitir a visualização das listas criadas.| BAIXA |
+|RF-015| A aplicacação irá oferecer recomendações de filmes para os usuários com base no histórico dos filmes cadastrados nas listas.| BAIXA |
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA |
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| A aplicação deve ser responsiva para rodar em um dispositivos móvel | ALTA | 
+|RNF-002| A aplicação deve ser compatível com os principais navegadores web |  ALTA |
+|RNF-003| A aplicação deve ser publicada em ambiente acessível na internet (Github) | ALTA | 
+|RNF-004| A aplicação deve ser capaz de lidar com um grande número de usuários e dados sem diminuir o desempenho. | ALTA | 
+|RNF-005| A aplicação deve ser fácil de manter e atualizar, com código limpo e documentado para que os desenvolvedores possam entender e modificar facilmente o sistema | BAIXA | 
+|RNF-006| A aplicação deve ser fácil de usar e navegar, com interfaces claras e intuitivas para permitir que os usuários adicionem, editem e removam filmes de suas listas |  BAIXA | 
+|RNF-007| Deve processar requisições do usuário em no máximo 5s |  BAIXA | 
+
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
@@ -93,7 +102,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
-|03| O projeto deve ser elaborado apenas com HTML, CSS e JavaScript   |
+|03| O projeto deve ser elaborado apenas com HTML, CSS e JavaScript |
 
 
 
