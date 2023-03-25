@@ -1,33 +1,44 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Os aplicativos são utilizados nas mais diversas atividades rotineiras, como comunicação, alimentação, transpporte, etc.
+O dia-a-dia de muitos trabalhadores e estudantes de grandes cidades brasileiras tem uma coisa em comum: tempo escasso.
+Os serviços de streaming, com seu rico catálogo, potencializaram uma opção de lazer que é segura e cabe na agenda mais concorrida.
+Entretanto, dada a grande variedade de filmes disponíveis, muitas vezes o usuário se vê perdendo precioso tempo em uma lista interminável de opções.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Esse projeto busca resolver o problema de entusiastas de cinema que não têm um histórico de filmes assistidos nem uma lista de filmes que desejam assistir. Sem um registro, pode ser difícil lembrar de todos os filmes que foram assistidos ao longo dos anos e assim perder a oportunidade de compartilhar opiniões e discutir filmes com mais facilidade.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo geral deste trabalho é criar uma aplicação web que permita aos usuários gerenciar uma lista de filmes de sua preferência, centralizando em uma única plataforma, um catágolo dos diversos serviços de streaming disponíveis.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
+
+Como objetivos específicos temos:
+  - Interagir com o catálogo de filmes por meio de notas pessoais, listas de interesses, filmes assistidos e gêneros preferidos.
+  - Verificar em qual plataforma de streaming o filme está disponível para assisti-lo. 
+  - Diminuir o tempo e fadiga na escolha de qual filme assistir.
+  - Facilitar a interação organica de recomendações de filmes de acordo com a definição das preferências usuário, por filmes já assistidos e bem avaliados.
+  
+  
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+A a criação de uma aplicação web que permita aos usuários criar listas personalizadas de filmes, bem como visualizar seu perfil de visualização, os usuários terão uma solução prática e conveniente para gerenciar suas preferências de filmes. Além disso, a inclusão de informações sobre a localização do filme em serviços de streaming tornará a experiência do usuário ainda mais conveniente e integrada.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+A possibilidade de ter uma lista de filmes já assistidos pode, obviamente, ajudar os usuários a lembrar dos filmes que já viram, o que pode ser especialmente útil para aqueles que assistem a muitos filmes ao longo do tempo. Com essa lista, os usuários podem evitar assistir ao mesmo filme duas vezes, economizando tempo e evitando a frustração de descobrir que já assistiram ao filme anteriormente. Além disso, a lista de filmes já assistidos pode ser usada como uma referência para compartilhar opiniões com amigos ou familiares que também assistiram aos mesmos filmes.
+
+Ainda, com uma lista de filmes que desejam assistir, os usuários podem acompanhar os filmes que desejam ver e priorizar quais assistir primeiro. Além disso, a lista pode ser usada para descobrir novos filmes ou para adicionar filmes que foram recomendados por amigos ou familiares.
+
+A aplicação otimizará o tempo dos usuários ao centralizar em uma única plataforma as informações sobre os filmes que desejam assistir e os que já assistiram. Sem a necessidade de acessar diversos serviços de streaming para encontrar informações sobre um filme específico, os usuários podem economizar tempo e energia. A otimização do tempo é uma das principais preocupações dos usuários que procuram serviços de streaming de filmes. De acordo com um estudo publicado pela The Wrap[^1], os usuários gastam em média 18 minutos pesquisando o que assistir antes de selecionar um filme. Isso pode parecer um tempo relativamente curto, mas quando multiplicado pelo número de vezes que os usuários procuram algo para assistir, pode se tornar uma quantidade significativa de tempo perdido.
+
+Dessa forma, há vidências de que as pessoas perdem uma quantidade significativa de tempo procurando o que assistir em serviços de streaming.
+
+Em síntese, considerando a importância, para os fâs de filmes, em organizar o conteúdo assistido e a assistir bem como poderem economizar tempo, a aplicação é justificada.
+
+
+[^1]: https://www.thewrap.com/netflix-users-browse-for-programming-twice-as-long-as-cable-viewers-study-says/
+
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
@@ -49,10 +60,16 @@ Diversas são as ferramentas que auxiliam usuários a criarem listas de filmes. 
 [^6]: https://www.rottentomatoes.com/ 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+A busca por entretenimento em plataformas digitais se tornou uma parte importante da rotina diária de muitas pessoas, e a pesquisa realizada pela MindMiners em parceria com a Toluna e divulgada pela ABRANET comprova que a demanda por entretenimento audiovisual online é alta no Brasil, sendo que 91% dos brasileiros consomem filmes e séries pelo menos uma vez por semana em plataformas digitais.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+No entanto, é importante ressaltar que essa rotina de consumo varia de acordo com a faixa etária média dos usuários. Por exemplo, pessoas entre 18 e 24 anos podem ter uma rotina mais atarefada com estudos, trabalho e outras atividades, mas ainda assim dedicam um tempo para assistir aos seus programas favoritos. Já pessoas entre 45 e 55 anos podem ter uma rotina mais estabelecida com obrigações familiares e profissionais, o que pode afetar o tempo disponível para consumo de filmes e séries.
+
+Nesse contexto, a escolha do que assistir, ter um histórico de filme assistidos ou onde assistir uma série e filme que deseja  tornou-se cada vez mais difícil para o público jovem-adulto médio, devido à sobrecarga de informações e opções, gerando a fadiga de decisão, um problema comum que afeta muitas pessoas. Por isso, é fundamental a criação de uma aplicação que facilite a escolha do que assistir, reduzindo a carga cognitiva do usuário e oferecendo sugestões personalizadas e listas pré-selecionadas, garantindo que as escolhas sejam mais precisas e agradáveis.
+
+Essa aplicação pode conectar as preferências de filmes e séries dos usuários aos seus perfis, oferecendo sugestões com base em seus interesses e histórico de consumo, aumentando a satisfação do usuário e melhorando sua experiência de entretenimento online. Destarte, esse público  entre 18 e 55 anos pode desfrutar do entretenimento disponível nos serviços digitais sem ter que gastar tempo e energia em decisões difíceis.
+
+[^1]: https://abrir.link/QbLhf
+
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)

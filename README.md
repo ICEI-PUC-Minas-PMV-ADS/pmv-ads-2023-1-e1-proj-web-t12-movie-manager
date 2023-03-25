@@ -6,7 +6,7 @@
 
 `SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Desenvolvimento de aplicação que permita aos seus usuários manterem um histórico de seus filmes assistidos e dos que pretende assistir.
 
 ## Integrantes
 
