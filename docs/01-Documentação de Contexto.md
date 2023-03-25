@@ -58,8 +58,6 @@ Diversas são as ferramentas que auxiliam usuários a criarem listas de filmes. 
 [^4]: https://www.justwatch.com/
 [^5]: https://letterboxd.com/
 [^6]: https://www.rottentomatoes.com/ 
-
-
 ## Público-Alvo
 
 A busca por entretenimento em plataformas digitais se tornou uma parte importante da rotina diária de muitas pessoas, e a pesquisa realizada pela MindMiners em parceria com a Toluna e divulgada pela ABRANET comprova que a demanda por entretenimento audiovisual online é alta no Brasil, sendo que 91% dos brasileiros consomem filmes e séries pelo menos uma vez por semana em plataformas digitais.
