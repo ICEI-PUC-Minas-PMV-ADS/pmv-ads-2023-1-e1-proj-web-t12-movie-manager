@@ -1,9 +1,11 @@
 # Introdução
 
-Os aplicativos são utilizados nas mais diversas atividades rotineiras, como comunicação, alimentação, transpporte, etc.
-O dia-a-dia de muitos trabalhadores e estudantes de grandes cidades brasileiras tem uma coisa em comum: tempo escasso.
-Os serviços de streaming, com seu rico catálogo, potencializaram uma opção de lazer que é segura e cabe na agenda mais concorrida.
-Entretanto, dada a grande variedade de filmes disponíveis, muitas vezes o usuário se vê perdendo precioso tempo em uma lista interminável de opções.
+Os avanços da tecnologia, como internet, computação em nuvem e outras têm transformado a maneira como as pessoas vivem e trabalham.
+
+Um consumidor de produtos audiovisuais dispõe hoje de várias fontes de conteúdo que não eram disponíveis em um passado recente. Hoje em dia, plataformas de streaming como Netflix, Amazon Prime Video e Disney+ oferecem um catálogo vasto de filmes e séries. O desenvolvimento das redes de telefonia, redes sem fio dentre outros, permite que estes conteúdos possam ser acessados através de dispositivos móveis.
+
+Nesse contexto, é importante ao consumidor de conteúdos audiovisuais dispor de uma opção que permita acompanhar os filmes e séries vistos para que possa aproveitar com mais eficiência suas experiências.
+
 
 ## Problema
 
