@@ -4,15 +4,15 @@
 
 Este tópico apresenta um aprofundamento no entendimento da solução a partir do ponto de vista do usuário. Para o desenvolvimento desta fase o grupo se baseou apenas nas experiências dos seus membros. Os resultados estão apresentados em três tópicos: personas, histórias de usuários e requisitos.
 
+Raimundo propõe remover o texto a seguir:
 Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
 Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
 ## Personas
 
-Personas são personagens fictícios que representam os usuários típicos de um produto ou serviço. Eles geralmente são criados com base em dados coletados em pesquisas ou entrevistas com os potenciais usuários reais do produto ou serviço. As informações utilizadas incluem dados demográficos (idade, sexo, educação e renda) e psicográficos (traços de personalidade, valores, interesses e padrões de comportamento). Para este trabalho, foram criadas personas ficcionais, ou seja, criadas com base na experiência dos membros do grupo, sem que houvesse coleta de dados.
-Foi definido o número de três personas para que fosse possível abordar os seguintes aspectos do público usuário: idade; ocupação; conhecimento de cinema; disponibilidade para assistir filmes; e rotina.
+Personas são personagens fictícios que representam os usuários típicos de um produto ou serviço. Eles geralmente são criados com base em dados coletados em pesquisas ou entrevistas com os potenciais usuários reais do produto ou serviço. As informações utilizadas incluem dados demográficos (idade, sexo, educação e renda) e psicográficos (traços de personalidade, valores, interesses e padrões de comportamento). Para este trabalho, foram criadas personas ficcionais, ou seja, criadas com base na experiência dos membros do grupo, sem que houvesse coleta de dados. 
 
+Raimundo propõe remover o texto a seguir:
 Personas são representações  de usuários que frequentam sites e aplicativos de streaming de audiovisual. Elas são criadas a partir de informações coletadas sobre diferentes tipos de usuários, como suas idades, ocupações e comportamentos de consumo. O objetivo é entender as necessidades e preferências de cada tipo de usuário e assim, criar soluções personalizadas que atendam às suas demandas. No contexto de streaming, as personas são uma ferramenta importante para identificar padrões de consumo e desenvolver estratégias de comunicação mais eficazes para atender as expectativas dos consumidores.
 
 + ### Américo Bastos
@@ -105,8 +105,10 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 |Luiza Wolf       | Saber em qual plataforma de streaming está disponível determinada série.                 |  | Para saber se poderá assistir ao filme.
 |Luiza Wolf       | Saber onde será exibido determinado filme.                 | Para se programar para ir à exibição. |
 
+Raimundo propõe remover o texto a seguir:
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
+Raimundo propõe remover o texto a seguir:
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
 > - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
