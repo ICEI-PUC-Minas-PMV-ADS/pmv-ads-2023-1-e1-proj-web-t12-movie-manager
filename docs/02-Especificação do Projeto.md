@@ -12,7 +12,7 @@ Personas são representações  de usuários que frequentam sites e aplicativos 
 
 + ### Luiza Wolf Klein
 
-	![Foto representativa](https://user-images.githubusercontent.com/75648729/228119736-2f37a2d2-79ad-4522-82e2-a263745fb9c0.jpg)) 
+	![Foto representativa](https://user-images.githubusercontent.com/75648729/228119736-2f37a2d2-79ad-4522-82e2-a263745fb9c0.jpg)
 
 	+ **Idade**: 19 anos
 
@@ -23,14 +23,17 @@ Personas são representações  de usuários que frequentam sites e aplicativos 
 
 	+ **Motivações**:  
 		  + Apaixonada por filmes e séries
+		  
 		  +  Gostaria de criar listas de filmes  para compartilhar com os amigos e a famíliares
 
 	+ **Dores**:  
 		  + O tempo disponível para procurar novos conteúdos é limitado.
+		  
 		  +  Gostaria de centralizar suas listas de filmes e série  em um único aplicativo
 		
 	+ **Hobbies**:  
 		  + Fotografia 
+		  + 
 		  + Maratonar filmes e séries 
 
 
