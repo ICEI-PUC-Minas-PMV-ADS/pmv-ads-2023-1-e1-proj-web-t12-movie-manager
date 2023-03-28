@@ -8,6 +8,34 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
+Personas são representações  de usuários que frequentam sites e aplicativos de streaming de audiovisual. Elas são criadas a partir de informações coletadas sobre diferentes tipos de usuários, como suas idades, ocupações e comportamentos de consumo. O objetivo é entender as necessidades e preferências de cada tipo de usuário e assim, criar soluções personalizadas que atendam às suas demandas. No contexto de streaming, as personas são uma ferramenta importante para identificar padrões de consumo e desenvolver estratégias de comunicação mais eficazes para atender as expectativas dos consumidores.
+
++ ### Luiza Wolf Klein
+
+	![Foto representativa](![amandla](https://user-images.githubusercontent.com/75648729/228119736-2f37a2d2-79ad-4522-82e2-a263745fb9c0.jpg)) 
+
+	+ **Idade**: 19 anos
+
+	+ **Profissão**:  
+	    Estudante universitária do curso  de publicidade e propaganda em período semi-integral. 
+	+ **Aplicativos**:  
+      Youtube; Netflix;  HBO Max;GloboPlay.
+
+	+ **Motivações**:  
+		  + Apaixonada por filmes e séries
+		  +  Gostaria de criar listas de filmes  para compartilhar com os amigos e a famíliares
+
+	+ **Dores**:  
+		  + O tempo disponível para procurar novos conteúdos é limitado.
+		  +  Gostaria de centralizar suas listas de filmes e série  em um único aplicativo
+		
+	+ **Hobbies**:  
+		  + Fotografia 
+		  + Maratonar filmes e séries 
+
+
+
+
 Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
