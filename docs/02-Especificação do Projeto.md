@@ -19,22 +19,19 @@ Personas são representações  de usuários que frequentam sites e aplicativos 
 	+ **Profissão**:  
 	    Estudante universitária do curso  de publicidade e propaganda em período semi-integral. 
 	+ **Aplicativos**:  
-      Youtube; Netflix;  HBO Max;GloboPlay.
+      Youtube; Netflix;  HBO Max; GloboPlay.
 
 	+ **Motivações**:  
-		  + Apaixonada por filmes e séries
-		  
-		  +  Gostaria de criar listas de filmes  para compartilhar com os amigos e a famíliares
+     + Apaixonada por filmes e séries
+     + Gostaria de criar listas de filmes  para compartilhar com os amigos e a famíliares
 
 	+ **Dores**:  
-		  + O tempo disponível para procurar novos conteúdos é limitado.
-		  
-		  +  Gostaria de centralizar suas listas de filmes e série  em um único aplicativo
+     + O tempo disponível para procurar novos conteúdos é limitado.
+     +  Gostaria de centralizar suas listas de filmes e série  em um único aplicativo
 		
 	+ **Hobbies**:  
-		  + Fotografia 
-		  + 
-		  + Maratonar filmes e séries 
+     + Fotografia 
+     + Maratonar filmes e séries 
 
 
 
