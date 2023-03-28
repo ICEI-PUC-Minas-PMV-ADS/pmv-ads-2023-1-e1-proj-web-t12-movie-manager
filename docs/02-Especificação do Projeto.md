@@ -12,7 +12,7 @@ Personas são representações  de usuários que frequentam sites e aplicativos 
 
 + ### Luiza Wolf Klein
 
-	![Foto representativa](![amandla](https://user-images.githubusercontent.com/75648729/228119736-2f37a2d2-79ad-4522-82e2-a263745fb9c0.jpg)) 
+	![Foto representativa](https://user-images.githubusercontent.com/75648729/228119736-2f37a2d2-79ad-4522-82e2-a263745fb9c0.jpg)) 
 
 	+ **Idade**: 19 anos
 
