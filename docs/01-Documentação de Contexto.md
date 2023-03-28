@@ -62,13 +62,11 @@ Diversas são as ferramentas que auxiliam usuários a criarem listas de filmes. 
 [^6]: https://www.rottentomatoes.com/ 
 ## Público-Alvo
 
-A busca por entretenimento em plataformas digitais se tornou uma parte importante da rotina diária de muitas pessoas, e a pesquisa realizada pela MindMiners em parceria com a Toluna e divulgada pela ABRANET comprova que a demanda por entretenimento audiovisual online é alta no Brasil, sendo que 91% dos brasileiros consomem filmes e séries pelo menos uma vez por semana em plataformas digitais.
+Este trabalho é voltado para entusiastas de filmes e séries que procuram uma maneira prática e conveniente de gerenciar suas preferências audiovisuais. Esses usuários são ávidos consumidores de conteúdo e buscam uma lista organizada de filmes e séries já assistidos, bem como uma lista de conteúdo a ser assistido.
 
-No entanto, é importante ressaltar que essa rotina de consumo varia de acordo com a faixa etária média dos usuários. Por exemplo, pessoas entre 18 e 24 anos podem ter uma rotina mais atarefada com estudos, trabalho e outras atividades, mas ainda assim dedicam um tempo para assistir aos seus programas favoritos. Já pessoas entre 45 e 55 anos podem ter uma rotina mais estabelecida com obrigações familiares e profissionais, o que pode afetar o tempo disponível para consumo de filmes e séries.
+Além disso, eles estão sempre em busca de descobrir novos filmes e receber recomendações personalizadas de acordo com seus gostos e preferências. Essa audiência valoriza muito o tempo e deseja uma solução integrada e eficiente para gerenciar suas preferências e escolher o que assistir.
 
-Nesse contexto, a escolha do que assistir, ter um histórico de filme assistidos ou onde assistir uma série e filme que deseja  tornou-se cada vez mais difícil para o público jovem-adulto médio, devido à sobrecarga de informações e opções, gerando a fadiga de decisão, um problema comum que afeta muitas pessoas. Por isso, é fundamental a criação de uma aplicação que facilite a escolha do que assistir, reduzindo a carga cognitiva do usuário e oferecendo sugestões personalizadas e listas pré-selecionadas, garantindo que as escolhas sejam mais precisas e agradáveis.
-
-Essa aplicação pode conectar as preferências de filmes e séries dos usuários aos seus perfis, oferecendo sugestões com base em seus interesses e histórico de consumo, aumentando a satisfação do usuário e melhorando sua experiência de entretenimento online. Destarte, esse público  entre 18 e 55 anos pode desfrutar do entretenimento disponível nos serviços digitais sem ter que gastar tempo e energia em decisões difíceis.
+Destarte, essa aplicação tem como foco proporcionar uma solução prática e integrada que atenda às necessidades desses usuários, permitindo que eles gerenciem suas preferências de forma mais eficiente e recebam recomendações personalizadas de acordo com suas preferências audiovisuais.
 
 [^1]: https://abrir.link/QbLhf
 
