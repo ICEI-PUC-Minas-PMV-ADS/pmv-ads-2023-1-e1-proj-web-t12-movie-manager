@@ -2,11 +2,16 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
+Este tópico apresenta um aprofundamento no entendimento da solução a partir do ponto de vista do usuário. Para o desenvolvimento desta fase o grupo se baseou apenas nas experiências dos seus membros. Os resultados estão apresentados em três tópicos: personas, histórias de usuários e requisitos.
+
 Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
 
 Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
 ## Personas
+
+Personas são personagens fictícios que representam os usuários típicos de um produto ou serviço. Eles geralmente são criados com base em dados coletados em pesquisas ou entrevistas com os potenciais usuários reais do produto ou serviço. As informações utilizadas incluem dados demográficos (idade, sexo, educação e renda) e psicográficos (traços de personalidade, valores, interesses e padrões de comportamento). Para este trabalho, foram criadas personas ficcionais, ou seja, criadas com base na experiência dos membros do grupo, sem que houvesse coleta de dados.
+Foi definido o número de três personas para que fosse possível abordar os seguintes aspectos do público usuário: idade; ocupação; conhecimento de cinema; disponibilidade para assistir filmes; e rotina.
 
 Personas são representações  de usuários que frequentam sites e aplicativos de streaming de audiovisual. Elas são criadas a partir de informações coletadas sobre diferentes tipos de usuários, como suas idades, ocupações e comportamentos de consumo. O objetivo é entender as necessidades e preferências de cada tipo de usuário e assim, criar soluções personalizadas que atendam às suas demandas. No contexto de streaming, as personas são uma ferramenta importante para identificar padrões de consumo e desenvolver estratégias de comunicação mais eficazes para atender as expectativas dos consumidores.
 
@@ -87,12 +92,18 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+Com base na análise das personas foram identificadas as seguintes histórias de usuários:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Américo Bastos  | Ter acesso ao aplicativo utilizando a rede móvel celular.           | Para fazer registros de filmes assistidos durante o deslocamento do trabalho para a casa.               |
+|Américo Bastos       | Registrar um filme sobre o qual li em uma matéria de uma revista especializada.                 | Lembrar e assistir ao filme oportunamente. |
+|Carla Dias       | Registrar quais filmes assistiu com meu marido.                 | Para não sugerir o mesmo filme novamente. |
+|Carla Dias       | Manter um registro de filmes que possuo interesse em assistir.                 | Para facilitar na hora de programar as sessões da semana.  |
+|Eduardo Faustino       | Saber qual o ano em que determinado filme foi lançado.                 | Para incluir em uma sessão temática de determinada época.|
+|Eduardo Faustino       | Descobrir qual o diretor de um filme que assisti.                 | Para satisfazer a curiosidade e conhecer melhor a obra do diretor. |
+|Luiza Wolf       | Saber em qual plataforma de streaming está disponível determinada série.                 |  | Para saber se poderá assistir ao filme.
+|Luiza Wolf       | Saber onde será exibido determinado filme.                 | Para se programar para ir à exibição. |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
