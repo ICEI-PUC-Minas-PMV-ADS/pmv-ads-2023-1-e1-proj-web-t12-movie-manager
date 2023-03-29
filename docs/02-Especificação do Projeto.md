@@ -18,7 +18,7 @@ Personas são personagens que representam os usuários típicos de um produto ou
 |**Hobbies** | participa de um grupo de teatro na faculdade, onde encontra pessoas que curtem falar sobre cinema.
 
 + ### Carla Dias
-|<img src="" width="160" height="160">   |_33 anos, recém-casada, sem filhos, mora numa casa em um condomínio de luxo._   |
+|<img src="https://user-images.githubusercontent.com/75648729/228601452-6ed4ee6e-f882-479c-a614-f10a79de4462.jpg" width="160" height="160">   |_33 anos, recém-casada, sem filhos, mora numa casa em um condomínio de luxo._   |
 |:---------------------------------------:|:-------------------------------:|
 |**Ocupação** | arquiteta, trabalha em uma empresa que presta serviço de decoração de interiores. 
 |**Rotina** | trabalha a maior parte do tempo em casa. Eventualmente sai para visitar clientes e participar de algumas reuniões de projetos. Recém-casada, durante a semana aproveita o tempo com o marido para assistir séries. Tem preferência por comédias românticas mas seu gosto é diversificado, chegando a assistir filmes e séries policiais. Seu trabalho não é desafiador mas requer criatividade. Por isso, mantém uma rotina regular e não gosta de imprevistos. Gosta de planejamento, que aplica rigorosamente em seus passeios e viagens.
