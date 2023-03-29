@@ -22,7 +22,7 @@ Personas são personagens que representam os usuários típicos de um produto ou
 |:---------------------------------------:|:-------------------------------:|
 |**Ocupação** | Arquiteta, trabalha em uma empresa que presta serviço de decoração de interiores. 
 |**Rotina** | Ela trabalha a maior parte do tempo em casa, mas ocasionalmente sai para visitar clientes e participar de reuniões de projetos. Recém-casada, durante a semana aproveita o tempo com o marido para assistir séries. Ela prefere comédias românticas, mas seu gosto é diversificado e inclui filmes e séries policiais, acessados através de diversas plataformas de streaming, como Netflix, HBO Max, Argo e Belas Artes à La Carte.Seu trabalho é desafiador e requer muita criatividade, e ela se inspira muito em documentários e filmes com arquitetura requintada e moderna. Ela mantém uma rotina regular e não gosta de imprevistos, preferindo o planejamento rigoroso em seus passeios e viagens.
-|**Motivações** | Ela gostaria de trazer toda essa  organização e planejamente que bem inerente a sua personalidade para seus filmes e série. Em uma aplicação unificada.
+|**Motivações** | Ela gostaria de trazer toda essa  organização e planejamente que é bem inerente a sua personalidade para seus filmes e série. Em uma aplicação unificada.
 |**Hobbies** | seu hobbie é fazer compras pela internet, principalmente roupas.
 
 + ### Eduardo Faustino
