@@ -66,7 +66,7 @@ Este trabalho é voltado para entusiastas de filmes e séries que procuram uma m
 
 Além disso, eles estão sempre em busca de descobrir novos filmes e receber recomendações personalizadas de acordo com seus gostos e preferências. Essa audiência valoriza muito o tempo e deseja uma solução integrada e eficiente para gerenciar suas preferências e escolher o que assistir.
 
-Destarte, essa aplicação tem como foco proporcionar uma solução prática e integrada que atenda às necessidades desses usuários, permitindo que eles gerenciem suas preferências de forma mais eficiente e recebam recomendações personalizadas de acordo com suas preferências audiovisuais.
+Destarte, essa aplicação tem como foco proporcionar uma solução prática e integrada que atenda às necessidades desses usuários, permitindo que eles gerenciem suas preferências de forma mais eficiente e recebam recomendações personalizadas de acordo com seus gostos audiovisuais.
 
 [^1]: https://abrir.link/QbLhf
 
