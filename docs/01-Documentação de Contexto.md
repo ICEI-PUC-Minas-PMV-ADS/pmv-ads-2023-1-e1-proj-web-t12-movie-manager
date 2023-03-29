@@ -42,9 +42,6 @@ Em síntese, considerando a importância, para os fâs de filmes, em organizar o
 [^1]: https://www.thewrap.com/netflix-users-browse-for-programming-twice-as-long-as-cable-viewers-study-says/
 
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
-
 ## Soluções Disponíveis no Mercado
 
 Diversas são as ferramentas que auxiliam usuários a criarem listas de filmes. Entre elas, destacam-se as seguintes:
