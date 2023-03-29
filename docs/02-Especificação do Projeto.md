@@ -53,11 +53,11 @@ Personas são personagens que representam os usuários típicos de um produto ou
 	+ **Profissão**:  
 	    Estudante universitária do curso  de publicidade e propaganda em período semi-integral. 
 	+ **Aplicativos**:  
-      
+         + HBO Max, Disney, Netflix, Paramount+.
 
 	+ **Motivações**:  
          + Apaixonada por filmes e séries
-         + Gostaria de criar listas de filmes  para compartilhar com os amigos e a famíliares
+         + Gostaria de criar listas de filmes  para compartilhar com os amigos e famíliares
 
 	+ **Dores**:  
          + O tempo disponível para procurar novos conteúdos é limitado.
