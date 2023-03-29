@@ -18,7 +18,7 @@ Personas são personagens que representam os usuários típicos de um produto ou
 |**Hobbies** | participa de um grupo de teatro na faculdade, onde encontra pessoas que curtem falar sobre cinema.
 
 + ### Carla Dias
-|<img src="https://user-images.githubusercontent.com/75648729/228601452-6ed4ee6e-f882-479c-a614-f10a79de4462.jpg" width="160" height="160">   |_33 anos, recém-casada, sem filhos, mora numa casa em um condomínio de luxo._   |
+|<img src="https://user-images.githubusercontent.com/75648729/228601452-6ed4ee6e-f882-479c-a614-f10a79de4462.jpg" width="400" >   |_33 anos, recém-casada, sem filhos, mora numa casa em um condomínio de luxo._   |
 |:---------------------------------------:|:-------------------------------:|
 |**Ocupação** | arquiteta, trabalha em uma empresa que presta serviço de decoração de interiores. 
 |**Rotina** | trabalha a maior parte do tempo em casa. Eventualmente sai para visitar clientes e participar de algumas reuniões de projetos. Recém-casada, durante a semana aproveita o tempo com o marido para assistir séries. Tem preferência por comédias românticas mas seu gosto é diversificado, chegando a assistir filmes e séries policiais. Seu trabalho não é desafiador mas requer criatividade. Por isso, mantém uma rotina regular e não gosta de imprevistos. Gosta de planejamento, que aplica rigorosamente em seus passeios e viagens.
@@ -26,7 +26,7 @@ Personas são personagens que representam os usuários típicos de um produto ou
 |**Hobbies** | seu hobbie é fazer compras pela internet, principalmente roupas.
 
 + ### Eduardo Faustino
-|<img src="" width="160" height="160">   |_44 anos, casado com 2 filhos, mora em um apartamento com a esposa em uma cidade do interior paulista._   |
+|<img src="https://user-images.githubusercontent.com/75648729/228602043-f3480c5e-91b6-43e1-a9e2-4efbf5c0ae36.jpg" width="400">   |_44 anos, casado com 2 filhos, mora em um apartamento com a esposa em uma cidade do interior paulista._   |
 |:---------------------------------------:|:-------------------------------:|
 |**Ocupação** | gerente de banco.
 |**Rotina** | mora relativamente perto do trabalho mas vai de carro por comodidade, já que tem que chegar cedo. Desde sua juventude tem interesse em cinema, acompanhando as trajetórias de atores, produtores e diretores. Tem uma coleção de revistas e livros relacionados ao cinema com  diversos conteúdos como biografias, assuntos técnicos da produção cinematográfica. É um verdadeiro cinéfilo que conhece bem evolução da sétima arte e acompanha de perto as mudanças mais recentes desta indústria. Assiste seus filmes na maioria das vezes em sua casa onde possui uma sala para este fim. Nos fins de semana, não perde a oportunidade de ir a uma sala de cinema assistir a um lançamento, seja comercial, seja do circuito alternativo.
@@ -43,29 +43,6 @@ Personas são personagens que representam os usuários típicos de um produto ou
 |**Hobbies** | Fotografia. Maratonar filmes e séries.
 
 
-
-+ ### Luiza Wolf Klein
-
-	![Foto representativa](https://user-images.githubusercontent.com/75648729/228119736-2f37a2d2-79ad-4522-82e2-a263745fb9c0.jpg)
-
-	+ **Idade**: 19 anos
-
-	+ **Profissão**:  
-	    Estudante universitária do curso  de publicidade e propaganda em período semi-integral. 
-	+ **Aplicativos**:  
-         + HBO Max, Disney, Netflix, Paramount+.
-
-	+ **Motivações**:  
-         + Apaixonada por filmes e séries
-         + Gostaria de criar listas de filmes  para compartilhar com os amigos e famíliares
-
-	+ **Dores**:  
-         + O tempo disponível para procurar novos conteúdos é limitado.
-         +  Gostaria de centralizar suas listas de filmes e série  em um único aplicativo
-		
-	+ **Hobbies**:  
-         + Fotografia 
-         + Maratonar filmes e séries 
 
 ## Histórias de Usuários
 
