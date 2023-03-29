@@ -56,7 +56,7 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 |Carla Dias       | Manter um registro de filmes que possuo interesse em assistir.                 | Para facilitar na hora de programar as sessões da semana.  |
 |Eduardo Faustino       | Saber qual o ano em que determinado filme foi lançado.                 | Para incluir em uma sessão temática de determinada época.|
 |Eduardo Faustino       | Descobrir qual o diretor de um filme que assisti.                 | Para satisfazer a curiosidade e conhecer melhor a obra do diretor. |
-|Luiza Wolf       | Saber em qual plataforma de streaming está disponível determinada série.                 | Para saber onde poderá assistir ao filme.
+|Luiza Wolf       | Saber em qual plataforma de streaming está disponível determinado filme.                 | Para saber onde poderá assistir ao filme.
 |Luiza Wolf       | Saber onde será exibido determinado filme.                 | Para se programar para ir à exibição. |
 
 
