@@ -1,10 +1,10 @@
 # MOVIE MANAGER
 
-`CURSO`
+`CURSO`: Análise e Desenvolvimento de Sistemas
 
-`DISCIPLINA`
+`DISCIPLINA`: Projeto do Eixo 1
 
-`SEMESTRE`
+`SEMESTRE`: 2023-1
 
 Desenvolvimento de aplicação que permita aos seus usuários manterem um histórico de seus filmes assistidos e dos que pretende assistir.
 
@@ -19,7 +19,7 @@ Desenvolvimento de aplicação que permita aos seus usuários manterem um histó
 
 ## Orientador
 
-* Nome completo do professor 1
+* Marcos André Silveira Kutova
 
 ## Instruções de utilização
 
