@@ -26,44 +26,31 @@ Como objetivos específicos temos:
   
 ## Justificativa
 
-A a criação de uma aplicação web que permita aos usuários criar listas personalizadas de filmes, bem como visualizar seu perfil de visualização, os usuários terão uma solução prática e conveniente para gerenciar suas preferências de filmes. Além disso, a inclusão de informações sobre a localização do filme em serviços de streaming tornará a experiência do usuário ainda mais conveniente e integrada.
+A aplicação otimizará o tempo dos usuários ao centralizar em uma única plataforma as informações sobre os filmes que desejam assistir e os que já assistiram. Sem a necessidade de acessar diversos serviços de streaming para encontrar informações sobre um filme específico, os usuários podem economizar tempo e energia. A otimização do tempo é uma das principais preocupações dos usuários que procuram serviços de streaming de filmes. De acordo com um estudo publicado pela The Wrap (MAGLIO, 2016), os usuários gastam em média 18 minutos pesquisando o que assistir antes de selecionar um filme. Isso pode parecer um tempo relativamente curto, mas quando multiplicado pelo número de vezes que os usuários procuram algo para assistir, pode se tornar uma quantidade significativa de tempo perdido.
 
-A possibilidade de ter uma lista de filmes já assistidos pode, obviamente, ajudar os usuários a lembrar dos filmes que já viram, o que pode ser especialmente útil para aqueles que assistem a muitos filmes ao longo do tempo. Com essa lista, os usuários podem evitar assistir ao mesmo filme duas vezes, economizando tempo e evitando a frustração de descobrir que já assistiram ao filme anteriormente. Além disso, a lista de filmes já assistidos pode ser usada como uma referência para compartilhar opiniões com amigos ou familiares que também assistiram aos mesmos filmes.
-
-Ainda, com uma lista de filmes que desejam assistir, os usuários podem acompanhar os filmes que desejam ver e priorizar quais assistir primeiro. Além disso, a lista pode ser usada para descobrir novos filmes ou para adicionar filmes que foram recomendados por amigos ou familiares.
-
-A aplicação otimizará o tempo dos usuários ao centralizar em uma única plataforma as informações sobre os filmes que desejam assistir e os que já assistiram. Sem a necessidade de acessar diversos serviços de streaming para encontrar informações sobre um filme específico, os usuários podem economizar tempo e energia. A otimização do tempo é uma das principais preocupações dos usuários que procuram serviços de streaming de filmes. De acordo com um estudo publicado pela The Wrap[^1], os usuários gastam em média 18 minutos pesquisando o que assistir antes de selecionar um filme. Isso pode parecer um tempo relativamente curto, mas quando multiplicado pelo número de vezes que os usuários procuram algo para assistir, pode se tornar uma quantidade significativa de tempo perdido.
-
-Dessa forma, há vidências de que as pessoas perdem uma quantidade significativa de tempo procurando o que assistir em serviços de streaming.
+Nesse contexto, a aplicação oferece uma solução simples e eficaz para organizar o tempo gasto em busca de filmes. Com a possibilidade de manter uma lista personalizada de filmes já assistidos e desejados, o usuário pode facilmente encontrar um filme para assistir, além de compartilhar suas preferências e discutir sobre seus filmes favoritos com amigos e familiares. Além disso, a integração com diversas plataformas de streaming permite que o usuário encontre rapidamente onde um filme está disponível, economizando tempo e tornando a experiência de assistir filmes mais agradável e eficiente.
 
 Em síntese, considerando a importância, para os fâs de filmes, em organizar o conteúdo assistido e a assistir bem como poderem economizar tempo, a aplicação é justificada.
-
-
-[^1]: https://www.thewrap.com/netflix-users-browse-for-programming-twice-as-long-as-cable-viewers-study-says/
 
 
 ## Soluções Disponíveis no Mercado
 
 Diversas são as ferramentas que auxiliam usuários a criarem listas de filmes. Entre elas, destacam-se as seguintes:
 
--	**IMDb**[^2] - O Internet Movie Database foi criado em 1990 por Col Needham e é uma base de dados online  uma base de dados online que contém informações sobre filmes, programas de TV, elenco, equipes de produção, trilhas sonoras e outros aspectos relacionados à indústria cinematográfica e televisiva. Ele permite que usuários criem listas de filmes que já assistiram ou que desejam assistir, escrevam críticas e classifiquem as produções em uma escala de 1 a 10. 
--	**TMDb**[^3] - Lançado em 2008 e mantido por uma comunidade de voluntários, o TMDb contém informações sobre milhares de filmes e programas de TV, incluindo sinopses, datas de lançamento, elenco, equipes de produção, orçamentos, receitas de bilheteria e classificações de usuários. Usuários podem se cadastrar no TMDb para criar listas de filmes e programas de TV, escrever críticas e classificar as produções em uma escala de 1 a 10. O site também possui recursos avançados, como APIs (interfaces de programação de aplicativos) que permitem que desenvolvedores integrem os dados do TMDb em seus próprios aplicativos e sites.
--	**JustWatch**[^4] - Lançado em 2014, o JustWatch se caracteriza como um serviço de pesquisa e descoberta de streaming que ajuda os usuários a encontrar onde assistir seus filmes e programas de TV favoritos em serviços de streaming. O serviço fornece informações sobre onde um título está disponível para assistir em serviços de streaming e, para além de ajudar os usuários a encontrar onde assistir seus filmes e programas de TV favoritos, o JustWatch também oferece recomendações personalizadas com base nos gostos e preferências dos usuários. Os usuários podem criar listas de filmes e programas de TV que desejam assistir, e o JustWatch enviará notificações quando esses títulos estiverem disponíveis para streaming.  .
--	**Letterboxd**[^5] - Lançada por neozelandeses em 2011, a rede social oferece uma plataforma para os usuários compartilharem suas opiniões e classificações sobre filmes, bem como criarem listas de seus filmes favoritos, assistidos ou a serem assistidos. O site também permite que os usuários sigam amigos e outros usuários com interesses similares e descubram novos filmes. Trata-se de uma comunidade online ativa, com usuários em todo o mundo. Ele fornece recursos para ajudar os usuários a descobrir novos filmes e acompanhar as estreias mais recentes.
--	**Rotten Tomatoes**[^6] - Abrangente e confiável o Rotten Tomatoes é uma plataforma de avaliação de filmes e programas de TV que fornece aos usuários informações úteis e avaliações de especialistas e da comunidade para ajudar na tomada de decisões ao escolher o que assistir. Entre suas funcionalidades, o sistema fornece informações sobre lançamentos futuros, trailers, notícias relacionadas ao cinema e programas de TV. Ademais, usuários podem criar listas pessoais de filmes que assistiram ou desejam assistir e receber recomendações personalizadas com base em suas avaliações e preferências de gênero.
+-	**IMDb**[^1] - O Internet Movie Database foi criado em 1990 por Col Needham e é uma base de dados online  uma base de dados online que contém informações sobre filmes, programas de TV, elenco, equipes de produção, trilhas sonoras e outros aspectos relacionados à indústria cinematográfica e televisiva. Ele permite que usuários criem listas de filmes que já assistiram ou que desejam assistir, escrevam críticas e classifiquem as produções em uma escala de 1 a 10. 
+-	**TMDb**[^2] - Lançado em 2008 e mantido por uma comunidade de voluntários, o TMDb contém informações sobre milhares de filmes e programas de TV, incluindo sinopses, datas de lançamento, elenco, equipes de produção, orçamentos, receitas de bilheteria e classificações de usuários. Usuários podem se cadastrar no TMDb para criar listas de filmes e programas de TV, escrever críticas e classificar as produções em uma escala de 1 a 10. O site também possui recursos avançados, como APIs (interfaces de programação de aplicativos) que permitem que desenvolvedores integrem os dados do TMDb em seus próprios aplicativos e sites.
+-	**JustWatch**[^3] - Lançado em 2014, o JustWatch se caracteriza como um serviço de pesquisa e descoberta de streaming que ajuda os usuários a encontrar onde assistir seus filmes e programas de TV favoritos em serviços de streaming. O serviço fornece informações sobre onde um título está disponível para assistir em serviços de streaming e, para além de ajudar os usuários a encontrar onde assistir seus filmes e programas de TV favoritos, o JustWatch também oferece recomendações personalizadas com base nos gostos e preferências dos usuários. Os usuários podem criar listas de filmes e programas de TV que desejam assistir, e o JustWatch enviará notificações quando esses títulos estiverem disponíveis para streaming.  .
+-	**Letterboxd**[^4] - Lançada por neozelandeses em 2011, a rede social oferece uma plataforma para os usuários compartilharem suas opiniões e classificações sobre filmes, bem como criarem listas de seus filmes favoritos, assistidos ou a serem assistidos. O site também permite que os usuários sigam amigos e outros usuários com interesses similares e descubram novos filmes. Trata-se de uma comunidade online ativa, com usuários em todo o mundo. Ele fornece recursos para ajudar os usuários a descobrir novos filmes e acompanhar as estreias mais recentes.
+-	**Rotten Tomatoes**[^5] - Abrangente e confiável o Rotten Tomatoes é uma plataforma de avaliação de filmes e programas de TV que fornece aos usuários informações úteis e avaliações de especialistas e da comunidade para ajudar na tomada de decisões ao escolher o que assistir. Entre suas funcionalidades, o sistema fornece informações sobre lançamentos futuros, trailers, notícias relacionadas ao cinema e programas de TV. Ademais, usuários podem criar listas pessoais de filmes que assistiram ou desejam assistir e receber recomendações personalizadas com base em suas avaliações e preferências de gênero.
+[^1]: https://www.imdb.com/
+[^2]: https://www.themoviedb.org/
+[^3]: https://www.justwatch.com/
+[^4]: https://letterboxd.com/
+[^5]: https://www.rottentomatoes.com/ 
 
-[^2]: https://www.imdb.com/
-[^3]: https://www.themoviedb.org/
-[^4]: https://www.justwatch.com/
-[^5]: https://letterboxd.com/
-[^6]: https://www.rottentomatoes.com/ 
 ## Público-Alvo
 
 Este trabalho é voltado para entusiastas de filmes e séries que procuram uma maneira prática e conveniente de gerenciar suas preferências audiovisuais. Esses usuários são ávidos consumidores de conteúdo e buscam uma lista organizada de filmes e séries já assistidos, bem como uma lista de conteúdo a ser assistido.
-
-Além disso, eles estão sempre em busca de descobrir novos filmes e receber recomendações personalizadas de acordo com seus gostos e preferências. Essa audiência valoriza muito o tempo e deseja uma solução integrada e eficiente para gerenciar suas preferências e escolher o que assistir.
-
-Destarte, essa aplicação tem como foco proporcionar uma solução prática e integrada que atenda às necessidades desses usuários, permitindo que eles gerenciem suas preferências de forma mais eficiente e recebam recomendações personalizadas de acordo com seus gostos audiovisuais.
 
 [^1]: https://abrir.link/QbLhf
 
