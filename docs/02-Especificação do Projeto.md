@@ -80,9 +80,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-010| Os usuários poderão criar seus perfis na aplicação| MÉDIA |
 |RF-011| Os usuários poderão gerenciar seus perfis na aplicação| MÉDIA |
 |RF-012| Os usuários poderão inserir foto de perfil em suas contas| MÉDIA |
-|RF-013| A aplicacação irá se integrar com plataformas de streaming para que os usuários possam saber a disponibilidade dos filmes| BAIXA |
-|RF-014| A aplicacação deve permitir a visualização das listas criadas.| BAIXA |
-|RF-015| A aplicacação irá oferecer recomendações de filmes para os usuários com base no histórico dos filmes cadastrados nas listas.| BAIXA |
+|RF-013| A aplicação irá se integrar com plataformas de streaming para que os usuários possam saber a disponibilidade dos filmes| BAIXA |
+|RF-014| A aplicação deve permitir a visualização das listas criadas.| BAIXA |
+|RF-015| A aplicação irá oferecer recomendações de filmes para os usuários com base no histórico dos filmes cadastrados nas listas.| BAIXA |
 
 
 ### Requisitos não Funcionais
