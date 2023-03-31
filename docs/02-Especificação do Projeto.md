@@ -9,22 +9,6 @@ Este tópico apresenta um aprofundamento no entendimento da solução a partir d
 
 Personas são personagens que representam os usuários típicos de um produto ou serviço. Eles geralmente são criados com base em dados coletados em pesquisas ou entrevistas com os potenciais usuários reais do produto ou serviço. As informações utilizadas incluem dados demográficos (idade, sexo, educação e renda) e psicográficos (traços de personalidade, valores, interesses e padrões de comportamento). O objetivo é entender as necessidades e preferências de cada tipo de usuário e assim, criar soluções personalizadas que atendam às suas demandas.  No contexto de streaming, as personas são uma ferramenta importante para identificar padrões de consumo e desenvolver estratégias de comunicação mais eficazes para atender as expectativas dos consumidores. Para este trabalho, foram criadas personas ficcionais, ou seja, criadas com base na experiência dos membros do grupo, sem que houvesse coleta de dados. 
 
-+ ### Américo Bastos
-|<img src="https://user-images.githubusercontent.com/75648729/228600309-4787438b-6cfe-4f68-b9f4-69631c1cbd98.jpg" width="400">   |_22 anos, solteiro, é filho único e mora com os pais em uma casa no subúrbio de uma grande cidade._   |
-|:---------------------------------------:|:-------------------------------:|
-|**Ocupação** | Estudante de comunicação, estagiário em um jornal de circulação nacional, onde contribui para edição da seção de cultura de uma metrópole do Brasil.
-|**Rotina** | Durante a semana, sai todos os dias para cumprir os compromissos da faculdade e do estágio. Utiliza o transporte público onde aproveita o tempo para leitura e assistir seus filmes utilizando serviços de streaming como GloboPlay, Amazon Prime e Star Plus. Prefere assistir a documentários atuais e sociais. Nos fins de semana, frequenta teatros, galerias de arte e salas de cinema alternativas.
-|**Motivações** |  Atualmente quer muito adquirir conhecimento sobre todas as formas de arte. Sonha em viajar pelo mundo, conhecendo de perto a realidade muitas vezes retratadas nos documentários que assiste. Uma queixa recorrente é que devido a duração do filme extrapolar o trajeto do ônibus ou ele dormir durante o percurso, ele perde muito noção de  qual filme já assistiu. Ele gostaria ter onde cadastrar o que já assistiu.
-|**Hobbies** | Participa de um grupo de teatro na faculdade, onde encontra pessoas que curtem falar sobre cinema.
-
-+ ### Carla Dias
-|<img src="https://user-images.githubusercontent.com/75648729/228601452-6ed4ee6e-f882-479c-a614-f10a79de4462.jpg" width="400" >   |_33 anos, recém-casada, sem filhos, mora numa casa em um condomínio de luxo._   |
-|:---------------------------------------:|:-------------------------------:|
-|**Ocupação** | Arquiteta, trabalha em uma empresa que presta serviço de decoração de interiores. 
-|**Rotina** | Ela trabalha a maior parte do tempo em casa, mas ocasionalmente sai para visitar clientes e participar de reuniões de projetos. Recém-casada, durante a semana aproveita o tempo com o marido para assistir séries. Ela prefere comédias românticas, mas seu gosto é diversificado e inclui filmes e séries policiais, acessados através de diversas plataformas de streaming, como Netflix, HBO Max, Argo e Belas Artes à La Carte.Seu trabalho é desafiador e requer muita criatividade, e ela se inspira muito em documentários e filmes com arquitetura requintada e moderna. Ela mantém uma rotina regular e não gosta de imprevistos, preferindo o planejamento rigoroso em seus passeios e viagens.
-|**Motivações** | Ela gostaria de trazer toda essa  organização e planejamente que é bem inerente a sua personalidade para seus filmes e série. Em uma aplicação unificada.
-|**Hobbies** | seu hobbie é fazer compras pela internet, principalmente roupas.
-
 + ### Eduardo Faustino
 |<img src="https://user-images.githubusercontent.com/75648729/228602043-f3480c5e-91b6-43e1-a9e2-4efbf5c0ae36.jpg" width="400">   |_44 anos, casado com 2 filhos, mora em um apartamento com a esposa em uma cidade do interior paulista._   |
 |:---------------------------------------:|:-------------------------------:|
@@ -50,12 +34,10 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Américo Bastos  | Ter acesso ao aplicativo utilizando a rede móvel celular.           | Para fazer registros de filmes assistidos durante o deslocamento do trabalho para a casa.               |
-|Américo Bastos       | Registrar um filme sobre o qual li em uma matéria de uma revista especializada.                 | Lembrar e assistir ao filme oportunamente. |
-|Carla Dias       | Registrar quais filmes assistiu com meu marido.                 | Para não sugerir o mesmo filme novamente. |
-|Carla Dias       | Manter um registro de filmes que possuo interesse em assistir.                 | Para facilitar na hora de programar as sessões da semana.  |
-|Eduardo Faustino       | Saber qual o ano em que determinado filme foi lançado.                 | Para incluir em uma sessão temática de determinada época.|
-|Eduardo Faustino       | Descobrir qual o diretor de um filme que assisti.                 | Para satisfazer a curiosidade e conhecer melhor a obra do diretor. |
+|Eduardo Faustino | Registrar um filme sobre o qual li em uma matéria de uma revista especializada.                 | Lembrar e assistir ao filme oportunamente. |
+|Luiza Wolf       | Registrar quais filmes assistiu.                 | Para manter um controle do consumo. |
+|Luiza Wolf       | Manter um registro de filmes que possuo interesse em assistir.                 | Para facilitar na hora de programar as sessões da semana.  |
+|Eduardo Faustino | Saber informações do filme como o ano, diretor, etc.                 | Para satisfazer a curiosidade e conhecer melhor a obra do diretor.|
 |Luiza Wolf       | Saber em qual plataforma de streaming está disponível determinado filme.                 | Para saber onde poderá assistir ao filme.
 |Luiza Wolf       | Saber onde será exibido determinado filme.                 | Para se programar para ir à exibição. |
 
