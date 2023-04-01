@@ -37,8 +37,8 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 |Eduardo Faustino | Registrar um filme sobre o qual li em uma matéria de uma revista especializada.                 | Lembrar e assistir ao filme oportunamente. |
 |Luiza Wolf       | Registrar quais filmes assistiu.                 | Para manter um controle do consumo. |
 |Luiza Wolf       | Manter um registro de filmes que possuo interesse em assistir.                 | Para facilitar na hora de programar as sessões da semana.  |
-|Eduardo Faustino | Saber informações do filme como o ano, diretor, etc.                 | Para satisfazer a curiosidade e conhecer melhor a obra do diretor.|
-|Luiza Wolf       | Saber em qual plataforma de streaming está disponível determinado filme.                 | Para saber onde poderá assistir ao filme.
+|Eduardo Faustino | Obter informações do filme como o ano, diretor, etc.                 | Para satisfazer a curiosidade e conhecer melhor a obra do diretor.|
+|Luiza Wolf       | Descobrir em qual plataforma de streaming está disponível determinado filme.                 | Para saber onde poderá assistir ao filme.
 |Luiza Wolf       | Saber onde será exibido determinado filme.                 | Para se programar para ir à exibição. |
 
 
