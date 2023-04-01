@@ -14,7 +14,7 @@ Personas são personagens que representam os usuários típicos de um produto ou
 |:---------------------------------------:|:-------------------------------:|
 |**Ocupação** | gerente de banco.
 |**Rotina** | Apesar de morar relativamente perto do trabalho, ele opta por ir de carro por questões de comodidade, especialmente por ter que chegar cedo. Desde a juventude, tem interesse em cinema, acompanhando as trajetórias de atores, produtores e diretores. Ele possui uma coleção de DVDs, fitas cassetes, revistas e livros relacionados ao cinema, com diversos conteúdos, como biografias e assuntos técnicos da produção cinematográfica. É um verdadeiro cinéfilo, conhecedor da evolução da sétima arte e atento às mudanças mais recentes da indústria, como a popularização dos serviços de streaming. Na maioria das vezes, ele assiste seus filmes em casa, onde possui uma sala dedicada para esse fim. Nos fins de semana, não perde a oportunidade de ir a uma sala de cinema para assistir a lançamentos tanto do circuito comercial quanto do circuito alternativo
-|**Motivações** |Gostaria de organizar seus filmes assistidos nos serviços de streaming e no cinema como outrora organizava sua coleção de DVDs e fitas cassetes. 
+|**Motivações** |Gostaria de organizar seus filmes assistidos nos serviços de streaming e no cinema como outrora organizava sua coleção de DVDs e fitas cassetes vez que a quantidade de opções nos serviços de streaming está dificultando seus metódos de organização.
 |**Hobbies** | é sócio de um clube de cinema que promove exibições e debates com convidados especiais.
 
 
@@ -23,7 +23,7 @@ Personas são personagens que representam os usuários típicos de um produto ou
 |:---------------------------------------:|:-------------------------------:|
 |**Ocupação** | Estudante universitária do curso  de publicidade e propaganda em período semi-integral. Estagiária em uma grande empresa de bebidas. 
 |**Rotina** | Durante a semana, divide o tempo entre as atividades da faculdade e os compromissos do estágio. Por sorte, a faculdade , o trabalho e sua residência são próximos, o que faz com que ela tenha uma rotina relativamente confortável, sem grandes deslocamentos, não sendo essa realidade das amigas que moram junto com ela, que  ficam praticamene fora o dia todo. Essa rotina facilita ela utiliza com frequência os aplicativos Youtube, Netflix,  HBO Max e GloboPlay. Porquanto , que é apaixoanda  por filmes e séries. 
-|**Motivações** | Devido assistir muitos filmes e séries sozinha, gostaria de compartilhar com amigos e parentes essa vasta lista assitida. Além, de amar descobrir em primeira mão de lançamentos. 
+|**Motivações** | Devido assistir muitos filmes e séries sozinha, gostaria de compartilhar com amigos e parentes essa vasta lista assitida. Além, de amar descobrir em primeira mão de lançamentos. Um serviço que permita a criação de listas do conteúdo consumido facilitaria o compartilhamento dos filmes que assiste.
 |**Hobbies** | Maratonar filmes e séries, fotografias e malhar. 
 
 
@@ -58,10 +58,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-006| A aplicação deve permitir que os usuários criem uma lista de filmes que assistiram| ALTA |
 |RF-007| A aplicação deve permitir que os usuários criem uma lista de filmes que desejam assistir| ALTA |
 |RF-008| A aplicacação será capaz de emitir um gráfico de radar baseado no genêro dos filmes assistidos| MÉDIA |
-|RF-009| Os usuários poderão criar seus perfis na aplicação| MÉDIA |
-|RF-010| Os usuários poderão gerenciar seus perfis na aplicação| MÉDIA |
-|RF-011| A aplicação irá se integrar com plataformas de streaming para que os usuários possam saber a disponibilidade dos filmes| BAIXA |
-|RF-012| A aplicação irá oferecer recomendações de filmes para os usuários com base no histórico dos filmes cadastrados nas listas.| BAIXA |
+|RF-009| Os usuários poderão gerenciar seus perfis na aplicação| MÉDIA |
+|RF-010| A aplicação irá se integrar com plataformas de streaming para que os usuários possam saber a disponibilidade dos filmes| BAIXA |
+|RF-011| A aplicação irá oferecer recomendações de filmes para os usuários com base no histórico dos filmes cadastrados nas listas.| BAIXA |
 
 
 ### Requisitos não Funcionais
