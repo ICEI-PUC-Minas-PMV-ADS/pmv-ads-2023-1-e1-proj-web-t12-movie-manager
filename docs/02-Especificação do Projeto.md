@@ -12,10 +12,10 @@ Personas são personagens que representam os usuários típicos de um produto ou
 + ### Eduardo Faustino
 |<img src="https://user-images.githubusercontent.com/75648729/228602043-f3480c5e-91b6-43e1-a9e2-4efbf5c0ae36.jpg" width="400">   |_44 anos, casado com 2 filhos, mora em um apartamento com a esposa em uma cidade do interior paulista._   |
 |:---------------------------------------:|:-------------------------------:|
-|**Ocupação** | gerente de banco.
+|**Ocupação** | Gerente de banco.
 |**Rotina** | Apesar de morar relativamente perto do trabalho, ele opta por ir de carro por questões de comodidade, especialmente por ter que chegar cedo. Desde a juventude, tem interesse em cinema, acompanhando as trajetórias de atores, produtores e diretores. Ele possui uma coleção de DVDs, fitas cassetes, revistas e livros relacionados ao cinema, com diversos conteúdos, como biografias e assuntos técnicos da produção cinematográfica. É um verdadeiro cinéfilo, conhecedor da evolução da sétima arte e atento às mudanças mais recentes da indústria, como a popularização dos serviços de streaming. Na maioria das vezes, ele assiste seus filmes em casa, onde possui uma sala dedicada para esse fim. Nos fins de semana, não perde a oportunidade de ir a uma sala de cinema para assistir a lançamentos tanto do circuito comercial quanto do circuito alternativo
 |**Motivações** |Gostaria de organizar seus filmes assistidos nos serviços de streaming e no cinema como outrora organizava sua coleção de DVDs e fitas cassetes vez que a quantidade de opções nos serviços de streaming está dificultando seus metódos de organização.
-|**Hobbies** | é sócio de um clube de cinema que promove exibições e debates com convidados especiais.
+|**Hobbies** | É sócio de um clube de cinema que promove exibições e debates com convidados especiais.
 
 
 + ### Luiza Wolf Klein
