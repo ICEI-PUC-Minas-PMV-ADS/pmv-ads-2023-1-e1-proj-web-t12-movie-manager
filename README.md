@@ -10,12 +10,13 @@ Desenvolvimento de aplicação que permita aos seus usuários manterem um histó
 
 ## Integrantes
 
-* Matheus da Silva Ramos;
-* Matheus Henrique Maia Sousa;
-* Tiago Carvalho Taveira Araujo; 
 * Ana Maria Pessoa;
 * Gabriel Santana Lourenço;
-* Raimundo Sales de Melo Neto.
+* Matheus da Silva Ramos;
+* Matheus Henrique Maia Sousa;
+* Raimundo Sales de Melo Neto;
+* Tiago Carvalho Taveira Araujo.
+
 
 ## Orientador
 
