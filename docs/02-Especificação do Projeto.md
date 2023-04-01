@@ -50,16 +50,16 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário se increva e faça login na aplicação usando seu e-mail e senha| ALTA | 
+|RF-001| A aplicação deve oferecer sistema de autenticação do usuário.| ALTA | 
 |RF-002| A aplicação deverá realizar integração com API de filmes| ALTA |
 |RF-003| A aplicação deverá apresentar para cada filme consultado a respectiva imagem da capa com título do filme| ALTA |
 |RF-004| A aplicação deverá permitir ao usuário consultar os dados do filme (nome do filme, atores, diretores e sinopse)| ALTA |
 |RF-005| A aplicação deverá oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar um filme específico que será informado na caixa de pesquisa.| ALTA |
 |RF-006| A aplicação deve permitir que os usuários criem uma lista de filmes que assistiram| ALTA |
 |RF-007| A aplicação deve permitir que os usuários criem uma lista de filmes que desejam assistir| ALTA |
-|RF-008| A aplicacação será capaz de emitir um gráfico de radar baseado no genêro dos filmes assistidos| MÉDIA |
-|RF-009| Os usuários poderão gerenciar seus perfis na aplicação| MÉDIA |
-|RF-010| A aplicação irá se integrar com plataformas de streaming para que os usuários possam saber a disponibilidade dos filmes| BAIXA |
+|RF-008| A aplicacação será capaz de mostrar a proporção de filmes assistidos por genêro.| MÉDIA |
+|RF-009| Os usuários poderão gerenciar seus perfis na aplicação.| MÉDIA |
+|RF-010| A aplicação irá se integrar com plataformas de streaming para que os usuários possam saber a disponibilidade dos filmes.| BAIXA |
 |RF-011| A aplicação irá oferecer recomendações de filmes para os usuários com base no histórico dos filmes cadastrados nas listas.| BAIXA |
 
 
