@@ -48,14 +48,34 @@ Apresente a divisão de papéis entre os membros do grupo.
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
- 
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
-
+3. Processo
+  3.1 Product backlog
+  3.2 Sprint 1
+    3.2.1 Planejamento
+    3.2.2 Execução
+    3.2.3 Evidências
+    
+    Reunião dia MAR
+    Participantes: Ana, Gabriel, Matheus Ramos
+    Assuntos tratados:
+    
+    Reunião dia MAR
+    Participantes: Ana, Gabriel, Matheus Maia, Raimundo, Tiago
+    Assuntos tratados:
+    
+    Reunião dia 23MAR
+    Participantes: Ana, Gabriel, Matheus Maia, Raimundo, Tiago
+    Assuntos tratados: distribuição de Tarefas
+    
+  3.3 Sprint 2
+    3.3.1 Planejamento
+    3.3.2 Execução
+    3.3.3 Evidências
+    Reunião dia 06ABR
+    Participantes: Gabriel, Matheus Maia, Raimundo, Tiago
+    Assuntos tratados: definição de papéis; nivelamento do conhecimento sobre o processo de trabalho; concepção das telas.
+    
+    
 ### Ferramentas
 
 As ferramentas empregadas no projeto são:
