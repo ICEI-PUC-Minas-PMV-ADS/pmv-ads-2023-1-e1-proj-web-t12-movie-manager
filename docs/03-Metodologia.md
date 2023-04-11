@@ -41,11 +41,11 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 Com o objetivo de realizar o desenvolvimento de forma eficiente e com foco em entrega de valor, a equipe optou por adotar metodologias ágeis, mais especificamente o Scrum. O Scrum permite que a equipe trabalhe de forma colaborativa e adaptável, com responsabilidades claras atribuídas a cada membro em cada estágio do projeto.A equipe está organizada da seguinte forma:
 
-> Scrum Master: Matheus Henrique Maia Sousa.
+ Scrum Master: Matheus Henrique Maia Sousa.
 
-> Product Owner: Gabriel Santana Lourenço.
+ Product Owner: Gabriel Santana Lourenço.
 
-> Equipe de Desenvolvimento:
+ Equipe de Desenvolvimento:
 
  - Ana Maria Pessoa;
        
