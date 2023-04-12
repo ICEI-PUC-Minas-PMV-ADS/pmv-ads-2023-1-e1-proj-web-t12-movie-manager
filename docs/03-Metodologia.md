@@ -45,7 +45,7 @@ Scrum Master: Matheus Maia.
 
 Product Owner: Gabriel Santana Lourenço.
 
-Equipe de Desenvolvimento: Ana Maria Pessoa, Raimundo Sales de Melo Neto e Tiago Carvalho Taveira Arauj.
+Equipe de Desenvolvimento: Ana Maria Pessoa, Raimundo Sales de Melo Neto e Tiago Carvalho Taveira Araujo.
 
 
 > **Links Úteis**:
