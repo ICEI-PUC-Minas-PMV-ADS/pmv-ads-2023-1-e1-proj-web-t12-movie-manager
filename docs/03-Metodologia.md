@@ -7,52 +7,46 @@ Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Defini�
 
 ## Gerenciamento de Projeto
 
-Com o objetivo de realizar o desenvolvimento de forma eficiente e com foco em entrega de valor, a equipe optou por adotar metodologias ágeis. Para este projeto, foi adotado o Scrum, que permite que a equipe trabalhe de forma colaborativa e adaptável. Além disso, se utiliza Kanban para gerenciar o cumprimento das tarefas elencadas nos backlog dos sprint.
+Com o objetivo de realizar o desenvolvimento de forma eficiente e com foco em entrega de valor, a equipe optou por adotar metodologias ágeis. Para este projeto, foi adotado o Scrum que permite que a equipe trabalhe de forma colaborativa e adaptável. Também foi utilizado o Kanban para gerenciar o cumprimento das tarefas elencadas nos backlog dos sprint.
 
 ### Divisão de Papéis
 
 A equipe está organizada da seguinte forma:
 
- Scrum Master: Matheus Henrique Maia Sousa.
+- Scrum Master: Matheus Henrique Maia Sousa.
 
- Product Owner: Gabriel Santana Lourenço.
+- Product Owner: Gabriel Santana Lourenço.
 
- Equipe de Desenvolvimento:
-
-- Ana Maria Pessoa;
-      
-- Raimundo Sales de Melo Neto;
-       
-- Tiago Carvalho Taveira Araujo.
-
+- Equipe de Desenvolvimento: Ana Maria Pessoa, Raimundo Sales de Melo Neto e Tiago Carvalho Taveira Araujo.
 
 ### Processo
 
 #### Product backlog
+O Backlog do produto é composto pelos seguintes artefatos:
 
-Documentação de Contexto
-Especificação do Projeto
-Metodologia
-Projeto de Interface
-Arquitetura da Solução
-Template padrão do Site
-Programação de Funcionalidades
-Plano de Testes de Software
-Registro de Testes de Software
-Apresentação do Projeto
-Referências
+1. Documentação de Contexto  
+2. Especificação do Projeto  
+3. Metodologia  
+4. Projeto de Interface  
+5. Arquitetura da Solução  
+6. Template padrão do Site  
+7. Programação de Funcionalidades  
+8. Plano de Testes de Software  
+9. Registro de Testes de Software  
+10. Apresentação do Projeto  
+11. Referências  
+
 
 #### Sprint 1
 
-#### Sprint backlog
-
-Documentação de Contexto
-Especificação do Projeto
-
-
 #### Planejamento
+Para esta etapa, Sprint backlog foi composto pelos seguintes entregáveis:
+1. Documentação de Contexto  
+2. Especificação do Projeto
 
 #### Execução
+A realização se deu ...
+print Kanban
 
 #### Evidências
    
@@ -71,14 +65,16 @@ Especificação do Projeto
 #### Sprint 2
 
 #### Planejamento
-#### Sprint Backlog
+Para esta etapa, Sprint backlog foi composto pelas seguintes funcionalidades:
+1. .....
+2. .....
+3. .....
 
-Metodologia
-Projeto de Interface
 
 #### Execução
-Para a realização das tarefas, a equipe procurou seguir a metodologia adotada, com reuniões pela plataforma Teams (R) antes de cada Sprint, e acompenhamento por mensagens em whatsapp.
-As reuni
+Para a realização das tarefas, a equipe procurou seguir a metodologia adotada com algumas adaptações para contornar o fato de todos trabalharem de forma totalmente remota. 
+Em geral, a cada duas semanas uma reunião de ajuste foi realizada, onde eram alinhados os entendimentos, e divididas as terefas e estabelecidos os prazos. As reuniões foram realizadas pela plataforma Teams (R) e gravadas. O acompanhamento feito por mensagens pelo whatsapp, quase diariamente.
+print Kanban
 
 #### Evidências
 
