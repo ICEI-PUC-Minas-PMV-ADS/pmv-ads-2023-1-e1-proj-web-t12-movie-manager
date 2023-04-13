@@ -30,32 +30,61 @@ A equipe está organizada da seguinte forma:
 
 #### Product backlog
 
+Documentação de Contexto
+Especificação do Projeto
+Metodologia
+Projeto de Interface
+Arquitetura da Solução
+Template padrão do Site
+Programação de Funcionalidades
+Plano de Testes de Software
+Registro de Testes de Software
+Apresentação do Projeto
+Referências
+
 #### Sprint 1
 
+#### Sprint backlog
+
+Documentação de Contexto
+Especificação do Projeto
+
+
 #### Planejamento
+
 #### Execução
+
 #### Evidências
    
-    Reunião dia MAR
-    Participantes: Ana, Gabriel, Matheus Ramos
-    Assuntos tratados:
+ Reunião dia MAR
+ Participantes: Ana, Gabriel, Matheus Ramos
+ Assuntos tratados:
     
-    Reunião dia MAR
-    Participantes: Ana, Gabriel, Matheus Maia, Raimundo, Tiago
-    Assuntos tratados:
+ Reunião dia MAR
+ Participantes: Ana, Gabriel, Matheus Maia, Raimundo, Tiago
+ Assuntos tratados:
     
-    Reunião dia 23MAR
-    Participantes: Ana, Gabriel, Matheus Maia, Raimundo, Tiago
-    Assuntos tratados: distribuição de Tarefas
+ Reunião dia 23MAR
+ Participantes: Ana, Gabriel, Matheus Maia, Raimundo, Tiago
+ Assuntos tratados: distribuição de Tarefas
     
 #### Sprint 2
 
 #### Planejamento
+#### Sprint Backlog
+
+Metodologia
+Projeto de Interface
+
 #### Execução
+Para a realização das tarefas, a equipe procurou seguir a metodologia adotada, com reuniões pela plataforma Teams (R) antes de cada Sprint, e acompenhamento por mensagens em whatsapp.
+As reuni
+
 #### Evidências
-    Reunião dia 06ABR
-    Participantes: Gabriel, Matheus Maia, Raimundo, Tiago
-    Assuntos tratados: definição de papéis; nivelamento do conhecimento sobre o processo de trabalho; concepção das telas.
+
+Reunião dia 06ABR
+Participantes: Gabriel, Matheus Maia, Raimundo, Tiago
+Assuntos tratados: definição de papéis; nivelamento do conhecimento sobre o processo de trabalho; concepção das telas.
 
     
 ### Ferramentas
