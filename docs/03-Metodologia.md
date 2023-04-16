@@ -3,37 +3,7 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
-
-## Controle de Versão
-
-A ferramenta de controle de versão adotada no projeto foi o
-[Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-foi utilizado para hospedagem do repositório.
-
-O projeto segue a seguinte convenção para o nome de branches:
-
-- `main`: versão estável já testada do software
-- `unstable`: versão já testada do software, porém instável
-- `testing`: versão em testes do software
-- `dev`: versão de desenvolvimento do software
-
-Quanto à gerência de issues, o projeto adota a seguinte convenção para
-etiquetas:
-
-- `documentation`: melhorias ou acréscimos à documentação
-- `bug`: uma funcionalidade encontra-se com problemas
-- `enhancement`: uma funcionalidade precisa ser melhorada
-- `feature`: uma nova funcionalidade precisa ser introduzida
-
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
-
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
->  - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
-> - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-> - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
+A abordagem inclui as especificações das ferramentas utilizadas pelo grupo, tanto para a manutenção dos códigos e outros itens quanto para a coordenação das atividades do projeto.
 
 ## Gerenciamento de Projeto
 
@@ -55,7 +25,52 @@ Equipe de Desenvolvimento: Ana Maria Pessoa, Raimundo Sales de Melo Neto e Tiago
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
+Para elaboração das tarefas necessárias necessárias do projeto, o grupo utiliza o Github Projects. O projeto em geral contará com cinco etapas:
+
+#### Sprint 1
+- Planejamento: O grupo se reuniu em duas oportunidades via _microsoft teams_ para alinhar as expectativas do trabalho e definir como elaborar a documentação do contexto que é formada pela introdução, problema, objetivos, solulções disponíveis no mercado e público-alvo. Posteriormente, o grupo também se dividiu com o objetivo de concretizar a entrega das especificações do projeto formada por personas, histórico de usuários, requisitos (funcionais e não funcionais) e as restrições.
+
+- Execução: Após a reunião da equipe, o grupo dividiu as tarefas da documentação de contexto da seguinte forma:
+* Introdução: Raimundo Sales de Meto Neto;
+* Problema: Gabriel Santana Lourenço;
+* Objetivos: Tiago Carvalho Taveira Araujo;
+* Justificativa: Matheus Henrique Maia Sousa;
+* Soluções disponíveis no mercado: Matheus Henrique Maia Sousa;
+* Público-Alvo: Ana Maria Pessoa.
+
+Em seguida, as especificações de projeto foram divididas da seguinte forma:
+* Personas: Ana Maria Pessoa e Raimundo Sales de Meto Neto;
+* Histórias de usuários: Ana Maria Pessoa e Raimundo Sales de Meto Neto;
+* Requisitos funcionais: Gabriel Santana Lourenço, Matheus Henrique Maia Sousa e Tiago Carvalho Taveira Araujo;
+* Requisitos não funcionais: Gabriel Santana Lourenço, Matheus Henrique Maia Sousa e Tiago Carvalho Taveira Araujo;
+* Restrições: Gabriel Santana Lourenço, Matheus Henrique Maia Sousa e Tiago Carvalho Taveira Araujo.
+
+- Evidências: O grupo estruturou e entregou no último dia 02/04/2023, a documentação de contexto e as especificações do projeto..
+
+#### Sprint 2
+- Planejamento: Entregue a documentação do primeiro _sprint_, o grupo buscou a definição dos documentos de metodologia e projeto de interface.
+
+- Execução: Utilizando a ferramente de projetos do Github, o grupo realizou a seguinte divisão:
+
+![image](https://user-images.githubusercontent.com/100796561/232341136-4e7dcbfd-3d93-4206-bb90-9819e99b0cb3.png)
+
+- Evidências: 
+
+#### Sprint 3
+- Planejamento:
+- Execução:
+- Evidências:
+
+#### Sprint 4
+- Planejamento:
+- Execução:
+- Evidências:
+
+#### Sprint 5
+- Planejamento:
+- Execução:
+- Evidências:
+
  
 > **Links Úteis**:
 > - [Project management, made simple](https://github.com/features/project-management/)
@@ -68,8 +83,9 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
 As ferramentas empregadas no projeto são:
 
 - Editor de código: Visual Studio Code.
-- Ferramentas de comunicação: Microsoft Teams e Whatsapp
-- Ferramentas de desenho de tela (_wireframing_)
+- Ferramentas de comunicação: Microsoft Teams e Whatsapp.
+- Ferramentas de desenho de tela (_wireframing_):
+- Plataforma de elaboração visual (_Userflow_):
 
 O editor de código foi escolhido porque ele possui uma integração com o
 sistema de versão. As ferramentas de comunicação utilizadas possuem
