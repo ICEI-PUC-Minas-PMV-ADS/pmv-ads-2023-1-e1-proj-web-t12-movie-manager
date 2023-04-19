@@ -45,6 +45,10 @@ Em seguida, as especificações de projeto foram divididas da seguinte forma:
 * Requisitos não funcionais: Gabriel Santana Lourenço, Matheus Henrique Maia Sousa e Tiago Carvalho Taveira Araujo;
 * Restrições: Gabriel Santana Lourenço, Matheus Henrique Maia Sousa e Tiago Carvalho Taveira Araujo.
 
+Essa foi a divisão:
+
+![image](https://user-images.githubusercontent.com/100796561/232930595-5f310a4f-049b-4eb0-84e4-b634a0af19e6.png)
+
 - Evidências: O grupo estruturou e entregou no último dia 02/04/2023, a documentação de contexto e as especificações do projeto..
 
 #### Sprint 2
