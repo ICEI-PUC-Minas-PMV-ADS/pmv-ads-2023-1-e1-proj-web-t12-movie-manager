@@ -12,7 +12,6 @@ Desenvolvimento de aplicação que permita aos seus usuários manterem um histó
 
 * Ana Maria Pessoa;
 * Gabriel Santana Lourenço;
-* Matheus da Silva Ramos;
 * Matheus Henrique Maia Sousa;
 * Raimundo Sales de Melo Neto;
 * Tiago Carvalho Taveira Araujo.
