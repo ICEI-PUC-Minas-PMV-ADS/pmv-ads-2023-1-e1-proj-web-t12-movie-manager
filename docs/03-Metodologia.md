@@ -17,12 +17,6 @@ Product Owner: Gabriel Santana Lourenço.
 
 Equipe de Desenvolvimento: Ana Maria Pessoa, Raimundo Sales de Melo Neto e Tiago Carvalho Taveira Araujo.
 
-
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-
 ### Processo
 
 Para elaboração das tarefas necessárias necessárias do projeto, o grupo utiliza o Github Projects. O projeto em geral contará com cinco etapas:
