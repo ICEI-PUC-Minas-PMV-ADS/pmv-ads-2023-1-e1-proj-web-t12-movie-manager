@@ -19,12 +19,26 @@ Equipe de Desenvolvimento: Ana Maria Pessoa, Raimundo Sales de Melo Neto e Tiago
 
 ### Processo
 
+**PRODUCT BACKLOG**
+- Documentação de Contexto;
+- Especificação do Projeto;
+- Metodologia;
+- Projeto de Interface;
+- Arquitetura da Solução;
+- Template padrão do Site;
+- Progamação de Funcionalidades;
+- Plano de Testes de Software;
+- Registro de Testes de Software;
+- Apresentação do Projeto;
+- Referências.
+
 Para elaboração das tarefas necessárias necessárias do projeto, o grupo utiliza o Github Projects. O projeto em geral contará com cinco etapas:
 
 #### Sprint 1
-- Planejamento: O grupo se reuniu em duas oportunidades via _microsoft teams_ para alinhar as expectativas do trabalho e definir como elaborar a documentação do contexto que é formada pela introdução, problema, objetivos, solulções disponíveis no mercado e público-alvo. Posteriormente, o grupo também se dividiu com o objetivo de concretizar a entrega das especificações do projeto formada por personas, histórico de usuários, requisitos (funcionais e não funcionais) e as restrições.
+- Planejamento: Para concretização desse _sprint_, o grupo planejou definir e entregar a documentação do contexto e as especificações do projeto. 
 
-- Execução: Após a reunião da equipe, o grupo dividiu as tarefas da documentação de contexto da seguinte forma:
+- Execução: Para concretizar o que foi planejado, a equipe se reuniu para definir as tarefas da etapa, que é formada pela elaboração da introdução, problema, objetivos, soluções disponíveis no mercado e público-alvo e também a criação das  personas, histórico de usuários, requisitos (funcionais e não funcionais) e as restrições. Após a reunião da equipe, o grupo dividiu as tarefas da documentação de contexto da seguinte forma:
+
 * Introdução: Raimundo Sales de Meto Neto;
 * Problema: Gabriel Santana Lourenço;
 * Objetivos: Tiago Carvalho Taveira Araujo;
@@ -43,16 +57,17 @@ Essa foi a divisão:
 
 ![image](https://user-images.githubusercontent.com/100796561/232930595-5f310a4f-049b-4eb0-84e4-b634a0af19e6.png)
 
-- Evidências: O grupo estruturou e entregou no último dia 02/04/2023, a documentação de contexto e as especificações do projeto..
+- Evidências: O grupo estruturou e entregou no último dia 02/04/2023, a documentação de contexto e as especificações do projeto.
 
 #### Sprint 2
-- Planejamento: Entregue a documentação do primeiro _sprint_, o grupo buscou a definição dos documentos de metodologia e projeto de interface.
+- Planejamento: Entregue a documentação do primeiro _sprint_, o grupo buscou a definição dos documentos de metodologia e projeto de interface. Estabelecido que nesse _sprint_, haveria a necessidade da entrega da divisão de papéis do projeto, as definições de processo e as ferramentas utilizadas. Para o projeto de interface, restou planejado a elaboração do fluxograma dos usuários e desenho de telas (_wireframing_). Planejamos pela criação das telas de _login_, de página de mídia, de recuperação de senha, de redefinição de senha, da _home page_ e da página de listas de filmes. Para além das telas, planejamos a criação dos fluxuogramas do usuário para toda interação com a aplicação.
 
-- Execução: Utilizando a ferramente de projetos do Github, o grupo realizou a seguinte divisão:
+- Execução: Utilizando a ferramenta de projetos do Github, o grupo executou as tarefas que foram planejadas, realizando a divisão das tarefas da equipe. O grupo acordou pela criação de seis telas e cinco fluxogramas. Eis a imagem:
 
-![image](https://user-images.githubusercontent.com/100796561/232341136-4e7dcbfd-3d93-4206-bb90-9819e99b0cb3.png)
+![image](https://user-images.githubusercontent.com/100796561/233748927-6f21ae3f-0c48-4c5a-aa91-dcfbd75b36b5.png)
 
-- Evidências: 
+
+- Evidências: O grupo estruturou e entregou no último dia 23/04/2023, a metodologia e o projeto de interface.
 
 #### Sprint 3
 - Planejamento:
