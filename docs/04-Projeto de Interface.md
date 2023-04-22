@@ -11,7 +11,7 @@ Assim, conseguimos implementar todos os requisitos funcionais, requisitos não-f
 
 As imagens abaixo destacam, do ponto de vista do usuário, a relação com a aplicação:
 
-![image](https://user-images.githubusercontent.com/100796561/233750814-fe02c00d-0d7c-47df-aa83-de809e19aa96.png)
+![image](https://user-images.githubusercontent.com/100796561/233752177-4ae2fbc2-eb47-4d90-af8b-132015d99584.png)
 
 ![image](https://user-images.githubusercontent.com/100796561/233750842-0a72960e-2b00-4cc9-8431-267494a7c12c.png)
 
@@ -31,11 +31,13 @@ Tela de _Login_ e Cadastro:
 
 Tela de Recuperação de Senha:
 
-![image](https://user-images.githubusercontent.com/100796561/233751278-9f450ff3-7cf4-40a0-a0fd-334617e00fc6.png) ![image](https://user-images.githubusercontent.com/100796561/233751304-3f0fc761-f013-4f02-af19-f65f18a37c90.png)
+![image](https://user-images.githubusercontent.com/100796561/233751278-9f450ff3-7cf4-40a0-a0fd-334617e00fc6.png) 
+![image](https://user-images.githubusercontent.com/100796561/233751304-3f0fc761-f013-4f02-af19-f65f18a37c90.png)
 
 Tela de Redefinição de Senha:
 
-![image](https://user-images.githubusercontent.com/100796561/233752043-0ca82f8d-f594-4158-90d0-f7cbd34db53d.png)  ![image](https://user-images.githubusercontent.com/100796561/233752064-ba4efc22-bd19-4de5-b44f-773f9473bd0b.png)
+![image](https://user-images.githubusercontent.com/100796561/233752043-0ca82f8d-f594-4158-90d0-f7cbd34db53d.png)  
+![image](https://user-images.githubusercontent.com/100796561/233752064-ba4efc22-bd19-4de5-b44f-773f9473bd0b.png)
 
 
 
