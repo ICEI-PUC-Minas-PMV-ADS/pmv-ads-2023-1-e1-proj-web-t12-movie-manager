@@ -11,15 +11,15 @@ Assim, conseguimos implementar todos os requisitos funcionais, requisitos não-f
 
 As imagens abaixo destacam, do ponto de vista do usuário, a relação com a aplicação:
 
-![image](https://user-images.githubusercontent.com/100796561/233752177-4ae2fbc2-eb47-4d90-af8b-132015d99584.png)
+[_Login_](https://user-images.githubusercontent.com/100796561/233752177-4ae2fbc2-eb47-4d90-af8b-132015d99584.png)
 
-![image](https://user-images.githubusercontent.com/100796561/233750842-0a72960e-2b00-4cc9-8431-267494a7c12c.png)
+[Redefinição de Senha](https://user-images.githubusercontent.com/100796561/232894806-24ab6bfe-4bb3-4aaf-bb8a-bc7b6ca1db29.png)
 
-![image](https://user-images.githubusercontent.com/100796561/233750892-2f3e81dc-3356-4551-ac7c-982573164090.png)
+[Adicionar filmes à lista](https://user-images.githubusercontent.com/127675409/232945930-a872b9ce-70d7-428e-bc65-c9c6a153be25.png)
 
 Eis abaixo um fluxograma com visão macro do sistema:
 
-![image](https://user-images.githubusercontent.com/100796561/233750992-9acae737-84c3-469a-ae2e-f8b1e70cb9a9.png)
+[Telas](https://user-images.githubusercontent.com/126730478/233166165-b5d66e1d-e12f-4ee9-9d02-4c4ba020a9fb.jpg)
 
 
 
@@ -32,7 +32,7 @@ Tela de _Login_ e Cadastro:
 Tela de Recuperação de Senha:
 
 ![image](https://user-images.githubusercontent.com/100796561/233751278-9f450ff3-7cf4-40a0-a0fd-334617e00fc6.png) 
-![image](https://user-images.githubusercontent.com/100796561/233751304-3f0fc761-f013-4f02-af19-f65f18a37c90.png)
+![image](https://user-images.githubusercontent.com/100796561/232647245-30240e83-8e50-4d54-a6cc-b3b2003424c5.png)
 
 Tela de Redefinição de Senha:
 
