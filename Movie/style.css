@@ -1,0 +1,33 @@
+/* estilo do carrossel */
+.carousel-item img {
+    height: 500px;
+    object-fit: cover;
+    }
+    
+    /* estilo dos cards */
+    .card-img-top {
+    height: 250px;
+    object-fit: cover;
+    }
+    
+    /* estilo do título "Sucessos da Semana" */
+    h1 {
+    margin: 50px 0 30px 0;
+    text-align: center;
+    }
+    
+    /* estilo do botão "Search" */
+    .btn-outline-suc {
+    border-color: #28a745;
+    color: #28a745;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    width: 150px;
+    }
+    
+    .btn-outline-suc:hover {
+    background-color: #28a745;
+    color: white;
+    }
+    
