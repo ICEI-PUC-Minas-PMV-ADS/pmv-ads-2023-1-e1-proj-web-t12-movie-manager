@@ -1,13 +1,35 @@
-// script para fazer a animação suave quando clicar em links de ancoragem
-$(document).ready(function(){
-    $('a[href^="#"]').on('click',function (e) {
-      e.preventDefault();
-      var target = this.hash,
-      $target = $(target);
-      $('html, body').stop().animate({
-        'scrollTop': $target.offset().top
-      }, 900, 'swing', function () {
-        window.location.hash = target;
-      });
-    });
+const arrows = document.querySelectorAll(".arrow");
+const movieLists = document.querySelectorAll(".movie-list");
+
+arrows.forEach((arrow, i) => {
+  const itemNumber = movieLists[i].querySelectorAll("img").length;
+  let clickCounter = 0;
+  arrow.addEventListener("click", () => {
+    const ratio = Math.floor(window.innerWidth / 270);
+    clickCounter++;
+    if (itemNumber - (4 + clickCounter) + (4 - ratio) >= 0) {
+      movieLists[i].style.transform = `translateX(${
+        movieLists[i].computedStyleMap().get("transform")[0].x.value - 300
+      }px)`;
+    } else {
+      movieLists[i].style.transform = "translateX(0)";
+      clickCounter = 0;
+    }
   });
+
+  console.log(Math.floor(window.innerWidth / 270));
+});
+
+//TOGGLE
+
+const ball = document.querySelector(".toggle-ball");
+const items = document.querySelectorAll(
+  ".container,.movie-list-title,.navbar-container,.sidebar,.left-menu-icon,.toggle"
+);
+
+ball.addEventListener("click", () => {
+  items.forEach((item) => {
+    item.classList.toggle("active");
+  });
+  ball.classList.toggle("active");
+});
