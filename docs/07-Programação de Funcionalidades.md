@@ -1,15 +1,38 @@
 # Programação de Funcionalidades
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="5-Arquitetura da Solução.md"> Arquitetura da Solução</a>
+- Tela Log-In;
+- Tela de Cadastro de Novo Usuário;
+- Tela Inicial da Aplicação;
+- Tela de Listas de Filmes;
+- Tela de Detalhes de Filmes;
 
-Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
+### Tela Log-In
 
-Para cada requisito funcional, pode ser entregue um artefato desse tipo
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-movie-manager/assets/100796561/2f8dfec1-9fed-44bd-901d-3fee990c1f8c)
 
-> **Links Úteis**:
->
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+A tela inicial garante o preenchimento do RF-01 vez que garante ao usuário um mecanismo de autenticação. Inclusive, a própria tela inicial permite a opção de cadastro de novos usuários conforme demonstrado na tela abaixo.
+
+# Tela de Cadastro de Novo Usuário
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-movie-manager/assets/100796561/5363839b-6657-4b6e-881f-b45d4b86688b)
+
+Como extensão do RF-001, a aplicação permite que usuários acessem tela de cadastro apresentada acima. Posteriormente a criação de um novo cadastro, o usuário é redirecionado a própria tela inicial.
+
+### Tela Inicial
+
+(INSERIR IMAGEM)
+
+A tela inicial da aplicação concentra uma grande variedade de títulos de filmes. Sendo certo que a própria página de _homepage_ satisfaz o RF-005 vez que oferece a funcionalidade de filtro/pesquisa e permite ao usuário localizar um filme específico.
+
+### Tela de Lista
+
+(INSERIR IMAGEM)
+
+A tela de listas de filmes atende aos RF-006 e RF-007 porquanto permite aos usuários a criação e manutenção das lista de filmes que já assistiram e a lista de filmes que desejam assistir.
+
+### Tela de Detalhes de Filme
+
+(INSERIR IMAGEM)
+
+A tela de detalhe de filmes garante efetividade ao RF- 003 e ao RF-004 na medida que há o resultado dos filmes pesquisados pelo usuário com o retorno dos dados do filme consultado como nome do filme, atores, diretores e, ainda, sinopse. Por fim, a tela de buscas ainda satisfaz o RF-010 vez que também mostra a disponibilidade de eventual filme em serviços de _streaming._
+
