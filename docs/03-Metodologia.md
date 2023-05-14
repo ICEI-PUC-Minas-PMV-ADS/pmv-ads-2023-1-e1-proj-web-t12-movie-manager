@@ -86,8 +86,9 @@ Essa foi a divisão:
 
 
 - Evidências: O grupo estruturou e entregou no dia 14/04/2023 o template padrão do site e a funcionalidade de cadastro e validação de usuários e, dentro da página _homepage_ o redirecionamento para páginas de listas.
-- [Reunião 02/05](![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-movie-manager/assets/100796561/9c24f4f5-ee50-4443-9039-32713baa5616)
-- [Reunião 12/05](![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-movie-manager/assets/100796561/4ec94d69-633a-47ee-9e1a-ece454b3b54c)
+- [Reunião 02/05]()
+- [Reunião 12/05](![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-movie-manager/assets/100796561/b3c5c435-34bf-4685-917b-035fee7f02e2)
+
 
 
 #### Sprint 4
