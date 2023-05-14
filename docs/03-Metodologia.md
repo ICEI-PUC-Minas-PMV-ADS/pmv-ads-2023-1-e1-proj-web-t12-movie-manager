@@ -78,9 +78,17 @@ Essa foi a divisão:
 
 
 #### Sprint 3
-- Planejamento:
-- Execução:
-- Evidências:
+- Planejamento: Após entregar a documentação inerente ao segundo _sprint_, iniciou o desenvolvimento da aplicação Web. Conforme estabelecido pelo Professor Orientador, o grupo deveria entregar o template inicial da aplicação e, pelo menos, uma funcionalidade da aplicação. Dessa forma, o grupo planejou elaborar a página inicial da aplicação e, ainda, a _homepage_ do site. Planejamos pela criação das telas de _login_, da _home page_ e, na _homepage,_ a funcionalidade de redirecionamento para página de listas de filmes. 
+
+- Execução: Para executar as tarefas que foram planejadas, o grupo utilizou as tecnlogias que foram listadas como ferramentas especialmente o VS Code para codificação da telas de _login_ e _homepage_. Foi o planejamento:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-movie-manager/assets/100796561/4a0ae32a-2b4c-450c-afe6-f3015a6cd905)
+
+
+- Evidências: O grupo estruturou e entregou no dia 14/04/2023 o template padrão do site e a funcionalidade de cadastro e validação de usuários e, dentro da página _homepage_ o redirecionamento para páginas de listas.
+- [Reunião 02/05](![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-movie-manager/assets/100796561/9c24f4f5-ee50-4443-9039-32713baa5616)
+- [Reunião 12/05](![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-movie-manager/assets/100796561/4ec94d69-633a-47ee-9e1a-ece454b3b54c)
+
 
 #### Sprint 4
 - Planejamento:
