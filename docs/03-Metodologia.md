@@ -86,8 +86,7 @@ Essa foi a divisão:
 
 
 - Evidências: O grupo estruturou e entregou no dia 14/04/2023 o template padrão do site e a funcionalidade de cadastro e validação de usuários e, dentro da página _homepage_ o redirecionamento para páginas de listas.
-- [Reunião 02/05]((https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-movie-manager/assets/100796561/781ce559-ab1e-4b58-836d-6284251a320e)
-)
+- [Reunião 02/05](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-movie-manager/assets/100796561/781ce559-ab1e-4b58-836d-6284251a320e)
 - [Reunião 12/05](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-movie-manager/assets/100796561/b3c5c435-34bf-4685-917b-035fee7f02e2)
 
 
