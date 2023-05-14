@@ -4,14 +4,14 @@
 
 Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia. A aplicação segue o padrão do Bootstrap.
 
-# Tela _Log-In_
+# Tela _Login_
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-movie-manager/assets/100796561/931e91a3-620f-4a5a-8700-d620cc6e9fc5)
 
 
-A tela de _log-in_ da aplicação apresenta um design minimalista, com uma cor de fundo preto e o texto em roxo, que transmite uma sensação de elegância e sofisticação. O layout foi cuidadosamente projetado para ser agradável aos olhos, sem distrações desnecessárias, permitindo que o usuário se concentre no processo de login.
+A tela de _login_ da aplicação apresenta um design minimalista, com uma cor de fundo preto e o texto em roxo, que transmite uma sensação de elegância e sofisticação. O layout foi cuidadosamente projetado para ser agradável aos olhos, sem distrações desnecessárias, permitindo que o usuário se concentre no processo de login.
 
-O objetivo da tela de _log-in_ é proporcionar uma experiência de usuário fluida e intuitiva, facilitando o acesso aos recursos da aplicação. Para isso, foram utilizados elementos de design como campos de entrada de texto bem definidos e botões de ação claramente identificáveis, que permitem ao usuário realizar a autenticação de forma rápida e eficiente. Além disso, a disposição dos elementos na tela foi pensada para otimizar o fluxo de navegação, proporcionando uma experiência agradável e eficaz.
+O objetivo da tela de _login_ é proporcionar uma experiência de usuário fluida e intuitiva, facilitando o acesso aos recursos da aplicação. Para isso, foram utilizados elementos de design como campos de entrada de texto bem definidos e botões de ação claramente identificáveis, que permitem ao usuário realizar a autenticação de forma rápida e eficiente. Além disso, a disposição dos elementos na tela foi pensada para otimizar o fluxo de navegação, proporcionando uma experiência agradável e eficaz.
 
 # Homepage
 
