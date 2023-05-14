@@ -15,7 +15,7 @@ O objetivo da tela de _login_ é proporcionar uma experiência de usuário fluid
 
 # Homepage
 
-(INSERIR IMAGEM)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-movie-manager/assets/127675409/de22e823-4cb5-41f4-9b4c-994df5e03de9)
 
 A _homepage_ é o carro chefe da aplicação e foi desenhada de forma intuitiva com o uso do framework Bootstrap. Ela foi elaborada com base em série de análises das aplicações disponíveis no mercado (apontadas na documentação de contexto). A opção pela adoção de um light theme se deu vez que ele é considerado melhor por muitas pessoas porque proporciona uma experiência de leitura mais agradável em ambientes com boa iluminação.
 
