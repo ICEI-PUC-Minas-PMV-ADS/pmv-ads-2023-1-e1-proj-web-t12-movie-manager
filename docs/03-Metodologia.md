@@ -78,9 +78,9 @@ Essa foi a divisão:
 
 
 #### Sprint 3
-- Planejamento: Após entregar a documentação inerente ao segundo _sprint_, iniciou o desenvolvimento da aplicação Web. Conforme estabelecido pelo Professor Orientador, o grupo deveria entregar o template inicial da aplicação e, pelo menos, uma funcionalidade da aplicação. Dessa forma, o grupo planejou elaborar a página inicial da aplicação e, ainda, a _homepage_ do site. Planejamos pela criação das telas de _login_, da _home page_ e, na _homepage,_ a funcionalidade de redirecionamento para página de listas de filmes. 
+- Planejamento: Após entregar a documentação inerente ao segundo _sprint_, iniciou o desenvolvimento da aplicação Web. Conforme estabelecido pelo Professor Orientador, o grupo deveria entregar o template inicial da aplicação e, pelo menos, uma funcionalidade da aplicação. Dessa forma, o grupo planejou elaborar a página de _log-in_ e, ainda, a _homepage_ do site. Planejamos pela criação das telas de _log-in_, da _home page_ e, na _homepage,_ a funcionalidade de redirecionamento para página de listas de filmes. 
 
-- Execução: Para executar as tarefas que foram planejadas, o grupo utilizou as tecnlogias que foram listadas como ferramentas especialmente o VS Code para codificação da telas de _login_ e _homepage_. Foi o planejamento:
+- Execução: Para executar as tarefas que foram planejadas, o grupo utilizou as tecnlogias que foram listadas como ferramentas especialmente o VS Code para codificação da telas de _log-in_ e _homepage_. Foi o planejamento:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-movie-manager/assets/100796561/4a0ae32a-2b4c-450c-afe6-f3015a6cd905)
 
