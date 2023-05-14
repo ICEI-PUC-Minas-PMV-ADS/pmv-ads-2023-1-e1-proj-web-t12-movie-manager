@@ -47,3 +47,27 @@
   font-size: 18px;
   text-align: center;
 }
+@media (max-width: 760px) {
+  .carousel {
+    display: flex;
+    flex-wrap: wrap;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    scroll-behavior: smooth;
+    padding: 10px 0;
+  }
+  
+  .movie {
+    flex: 0 0 calc(33.33% - 10px);
+    width: 200px;
+    height: 300px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    scroll-snap-align: start;
+    position: relative;
+  }  
+  .movie {
+      flex: 0 0 calc(50% - 10px);
+    }
+  }
+  
