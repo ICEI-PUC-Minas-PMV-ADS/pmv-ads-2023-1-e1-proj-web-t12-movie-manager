@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,300&display=swap');
+
+.movieRow{
+    margin-bottom: 30px;
+}
+
+.MovieRow h2{
+    margin: 20px 0px 0px 30px;
+    font-size: 20px;
+}
+
+.MovieLeft{
+    font-size: 40px;
+}
+
+.Movieright{
+    font-size: 40px;
+}
+
+
+.MovieListArea{
+ overflow-x: hidden ;
+ padding-left: 30px;
+
+}
+
+
+.MovieRow-item{
+    display: inline-block;
+    width: 180px;
+    cursor: pointer;
+}
+
+.MovieRow-item img{
+    width:100%;
+    transform: scale(0.8);
+    transition: all ease 0.25
+}
+
+.MovieRow-item img:hover{
+    transform: scale(1) ;
+}
+
+.MovieLeft, .Movieright{
+    position: absolute;
+    width: 40px;
+    height: 225px;
+    background-color: transparent 90%;
+    z-index: 99;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    cursor: pointer;
+    opacity: 0;
+    transition: all ease 0.5s;
+}
+
+.MovieLeft{
+ left: 0;
+}
+
+.Movieright {
+    right: 0;
+}
+
+.MovieLeft:hover,.Movieright:hover ,.Movie-lista:hover, .MovieRow-item:hover {
+    opacity: 1;
+}

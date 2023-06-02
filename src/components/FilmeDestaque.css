@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
+
+.destaque{
+    height: 75vh;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 40px;
+    
+}
+
+.filmedestaque--vertifical{
+    width: inherit;
+    height: inherit;
+    background: linear-gradient(to top, #111 15%,transparent 85%);
+}
+
+.filmedestaque-horizonaltal{
+    width: inherit;
+    height: inherit;
+    background: linear-gradient(to right, #111 25%,transparent 75%);
+
+}
+.filmedestaque-nome{
+    font-size: 50px;
+    font-weight: bold;
+    margin-right:15px;
+}
+
+.filmedestaque-info{
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+#destaque-avaliacao{
+    display: inline-block;
+    color: rgb(231, 234, 236);
+}
+
+
+.filmedestaque-pontos{
+    display: inline-block;
+    color: chartreuse;
+}
+
+.filmedestaque-sinopse{
+    margin-top: 15px;
+    font-size:15px;
+    color: rgb(121, 122, 123);
+    max-width: 35%;
+    background: transparent;
+}
+
+.filmedestaque-botoes{
+    margin-top: 15px;
+    display: inline-block;
+    font-size: 15;
+    font-weight: bold;
+    padding: 15px 20px;
+    border-radius: 10px;
+    color: #fff;
+    background-color: #333;
+    text-decoration:none;
+    opacity: 1;
+    transition: all ease 0,2s;
+    margin-right: 10px;
+}
+
+.filmedestaque-botoes:hover{
+   opacity: 0,8;
+}
+
+.filmedestaque-genero{
+    margin-top: 15px;
+    font-size:15px;
+    color: rgb(121, 122, 123);
+ 
+}

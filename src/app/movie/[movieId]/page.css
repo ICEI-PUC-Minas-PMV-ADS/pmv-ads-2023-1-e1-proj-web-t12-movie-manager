@@ -1,0 +1,86 @@
+header{
+    overflow-x: hidden ;
+    padding-left: 30px;
+}
+
+
+
+.destaque{
+    height: 100vh;
+    font-family: 'Roboto', sans-serif;
+    margin: 0px 0px 20px 0px;
+}
+
+.destaque--vertifical{
+    width: inherit;
+    height: inherit;
+    background: linear-gradient(to top, #565555 30%,transparent 70%);
+}
+
+.destaque-horizonaltal{
+    width: inherit;
+    height: inherit;
+    background: linear-gradient(to right, #111 5%,transparent 95%);
+
+}
+.destaque-nome{
+    font-size: 50px;
+    font-weight: bold;
+    margin-left:30px;
+}
+
+.destaque-info{
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 15px;
+    margin-left:30px;
+}
+
+#avaliacao{
+    display: inline-block;
+    color: rgb(231, 234, 236);
+}
+
+.destaque-pontos{
+    display: inline-block;
+    color: chartreuse;
+}
+
+.destaque-sinopse{
+    margin-top: 200px;
+    margin-left:150px;
+    font-size:20px;
+    color: rgb(231, 234, 236);
+    background: transparent;
+    max-width: 70%;
+    
+}
+
+.destaque-botoes{
+    margin-top: 15px;
+    display: inline-block;
+    font-size: 15;
+    font-weight: bold;
+    padding: 15px 20px;
+    border-radius: 10px;
+    color: #fff;
+    background-color: #333;
+    text-decoration:none;
+    opacity: 1;
+    transition: all ease 0,2s;
+    margin-left:15px;
+}
+
+.destaque-botoes:hover{
+   opacity: 0,8;
+}
+
+.destaque-genero{
+    margin-top: 15px;
+    font-size:15px;
+    color: rgb(121, 122, 123);
+    margin-right:15px;
+ 
+}
+
+

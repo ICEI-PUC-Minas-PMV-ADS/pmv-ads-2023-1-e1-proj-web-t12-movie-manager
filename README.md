@@ -1,54 +1,39 @@
-# MOVIE MANAGER
+Para rodar a aplicação é necessário baixar o Node.js.
 
-`CURSO`: Análise e Desenvolvimento de Sistemas
-
-`DISCIPLINA`: Projeto do Eixo 1
-
-`SEMESTRE`: 2023-1
-
-Desenvolvimento de aplicação que permita aos seus usuários manterem um histórico de seus filmes assistidos e dos que pretende assistir.
-
-## Integrantes
-
-* Ana Maria Pessoa;
-* Gabriel Santana Lourenço;
-* Matheus Henrique Maia Sousa;
-* Raimundo Sales de Melo Neto;
-* Tiago Carvalho Taveira Araujo.
+Depois disso, utilize o terminal do Vs Code para rodar a aplicação através do npm run dev
 
 
-## Orientador
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-* Marcos André Silveira Kutova
+## Getting Started
 
-## Instruções de utilização
+First, run the development server:
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+```
 
-# Documentação
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-<ol>
-<li><a href="docs/01-Documentação de Contexto.md"> Documentação de Contexto</a></li>
-<li><a href="docs/02-Especificação do Projeto.md"> Especificação do Projeto</a></li>
-<li><a href="docs/03-Metodologia.md"> Metodologia</a></li>
-<li><a href="docs/04-Projeto de Interface.md"> Projeto de Interface</a></li>
-<li><a href="docs/05-Arquitetura da Solução.md"> Arquitetura da Solução</a></li>
-<li><a href="docs/06-Template padrão do Site.md"> Template padrão do Site</a></li>
-<li><a href="docs/07-Programação de Funcionalidades.md"> Programação de Funcionalidades</a></li>
-<li><a href="docs/08-Plano de Testes de Software.md"> Plano de Testes de Software</a></li>
-<li><a href="docs/09-Registro de Testes de Software.md"> Registro de Testes de Software</a></li>
-<li><a href="docs/10-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
-<li><a href="docs/11-Referências.md"> Referências</a></li>
-</ol>
+You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
-# Hospedagem
+This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-* Insira o endereço eletrônico público de acesso ao conteúdo publicado. 
+## Learn More
 
-# Armazenamento do Código-Fonte
+To learn more about Next.js, take a look at the following resources:
 
-* <a href="src/README.md">Código Fonte</a>
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-# Armazenamento da Apresentação
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-* <a href="presentation/README.md">Apresentação da solução</a>
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
