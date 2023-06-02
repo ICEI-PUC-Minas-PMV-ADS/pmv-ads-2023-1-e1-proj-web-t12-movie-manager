@@ -8,9 +8,8 @@ import KeyboardDoubleArrowRightIcon from '@mui/icons-material/KeyboardDoubleArro
 const TMDB_BASE_URL = 'https://api.themoviedb.org/3'
 const language = 'language=pt-BR'
 const API_KEY = 'f9944b541279292b41c8fa75b161aecf'
-
 const VITE_POSTER_URL = 'https://image.tmdb.org/t/p/w300'
-const VITE_background_URL = 'https://image.tmdb.org/t/p/w700'
+
 
 
 

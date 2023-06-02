@@ -32,9 +32,6 @@ export default function Home() {
   },[]);
 
   return (
-
-
-
     <div className='page'>
       <header className='header'>
         <div className='menu'>
@@ -42,9 +39,9 @@ export default function Home() {
           <div><Link href="list/FilmesAssistir">Filmes Para Assistir</Link></div>
           </div>
           <div className="pesquisa">
-       <form>
-        <input name="search" id='search' placeholder='Buscar...' onChange={evt => setFilter(evt.target.value)} value={filter} />
-        </form>
+       <div className='search' >
+        <input type="search" placeholder='Buscar...' onChange={evt => setFilter(evt.target.value)} value={filter} />
+        </div>
       </div>
       </header>
 
