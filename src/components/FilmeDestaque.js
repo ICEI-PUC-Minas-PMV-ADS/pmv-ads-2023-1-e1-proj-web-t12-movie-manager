@@ -2,6 +2,7 @@
 import React from 'react';
 import './FilmeDestaque.css';
 import Link from 'next/link';
+import InfoIcon from '@mui/icons-material/Info';
 
 
 const VITE_background_URL = 'https://image.tmdb.org/t/p/original'
@@ -26,7 +27,15 @@ export default ({item}) => {
                 <div className="destaque-info">
                     <div className="filmedestaque-sinopse"><strong>Sinopse: </strong>{item.overview}</div>
                     <div className="filmedestaque-botoes">
-                        <Link href={`/list/add/${item.id}`}> + Minha Lista </Link>
+                        <div className='Adicionar-filmeAssistido'>
+                        <Link href={`/list/add/${item.id}`}> + Ja assistido </Link>
+                        </div>
+                        <div className='Adicionado-filmeAssitir'>
+                        <Link href={`/list/add/${item.id}`}> + Assitir </Link>
+                        </div>
+                        <div className='info'>
+                        <Link href={`/movie/${item.id}`}> <InfoIcon/> Info </Link>
+                        </div>
                     </div>
                     <div className="filmedestaque-genero"><strong>Generos: </strong> {genero.join(', ')}</div>
                 </div>

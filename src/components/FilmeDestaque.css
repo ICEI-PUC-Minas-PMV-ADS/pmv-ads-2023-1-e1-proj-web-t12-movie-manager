@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
 
+
+:link{
+    text-decoration: none;
+    color: #fcfafa;
+    display: inline-block;
+}
+
 .destaque{
     height: 75vh;
     font-family: 'Roboto', sans-serif;
@@ -50,7 +57,8 @@
     background: transparent;
 }
 
-.filmedestaque-botoes{
+
+.Adicionar-filmeAssistido{
     margin-top: 15px;
     display: inline-block;
     font-size: 15;
@@ -58,12 +66,59 @@
     padding: 15px 20px;
     border-radius: 10px;
     color: #fff;
-    background-color: #333;
+    background-color: #b2a10a;
+    text-decoration: none;
+    opacity: 1;
+    transition: all ease 0,2s;
+    margin-right: 10px;
+}
+
+
+.Adicionar-filmeAssistido{
+    display: inline-block;
+    margin-top: 15px;
+    font-size: 15;
+    font-weight: bold;
+    padding: 15px 20px;
+    border-radius: 10px;
+    color: #fff;
+    background-color: #b2a10a;
+    opacity: 1;
+    transition: all ease 0,2s;
+    margin-right: 10px;
+    text-decoration:none;
+}
+
+.info{
+    display: inline-block;
+    margin-top: 15px;
+    font-size: 15;
+    font-weight: bold;
+    padding: 15px 20px;
+    border-radius: 10px;
+    color: #fff;
+    background-color: #b2a10a;
+    opacity: 1;
+    transition: all ease 0,2s;
+    margin-right: 10px;
+    text-decoration:none;
+}
+
+.Adicionado-filmeAssitir{
+    margin-top: 15px;
+    display: inline-block;
+    font-size: 15;
+    font-weight: bold;
+    padding: 15px 20px;
+    border-radius: 10px;
+    color: #0d0d0d;
+    background-color: #b2a10a;
     text-decoration:none;
     opacity: 1;
     transition: all ease 0,2s;
     margin-right: 10px;
 }
+
 
 .filmedestaque-botoes:hover{
    opacity: 0,8;

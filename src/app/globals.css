@@ -1,15 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
+
+
 * {
   box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
   }
   
   body{
     background-color: #111;
     color: #fff;
     margin:0;
-    font-family: 'Times New Roman', Times, serif;
   }
 
 
   footer{
     margin: 60px;
   }
+
+  .header{
+    background-color: #fff;
+    background: transparent;
+
+   }
+  
+   .search{
+    outline: none;
+    margin: 0px 20px 40px 30px;
+    background-color: rgb(50, 50, 50);
+    height:32px;
+    padding-left:5px;
+    font-style:italic;
+    font-size:30px;
+    text-align: center;
+    display:flex;
+    flex-direction:column;
+    width: 1000px;
+    padding: 20px;
+    margin-left: 200px;
+    border: 10px;
+    border-radius: 20px;
+    text-decoration: red;
+  }
+  
