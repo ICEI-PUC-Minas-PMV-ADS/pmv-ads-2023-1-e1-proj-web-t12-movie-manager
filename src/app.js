@@ -24,7 +24,7 @@ function _crsRight() {
 }
 
 // card element
-let lang = 'en-En';
+let lang = 'pt-BR';
 
 function createCard(film) {
 
@@ -149,6 +149,7 @@ function showMovieDetails(link) {
             let detailRate = document.getElementById('movie_details_rate');
             let detailSlogan = document.getElementById('movie_detail_slogan');
             let detailDate = document.getElementById('movie_detail_year');
+            
 
             let capa = 'https://image.tmdb.org/t/p/w300' + data.poster_path;
 
