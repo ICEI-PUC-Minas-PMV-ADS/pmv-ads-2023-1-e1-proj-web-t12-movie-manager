@@ -1,7 +1,9 @@
 // slider function
 
-const positionX = 0;
-const timer = setInterval(_crsRight, 3000);
+// api_key = f9944b541279292b41c8fa75b161aecf
+
+let positionX = 0;
+let timer = setInterval(_crsRight, 3000);
 
 function crsLeft() {
     if (positionX < 0) positionX += 206;
@@ -15,57 +17,51 @@ function crsRight() {
 }
 
 function _crsRight() {
-    const maxSlide = -(20 * 206 - window.innerWidth);
+    let maxSlide = -(20 * 206 - window.innerWidth);
     if (positionX > maxSlide) positionX -= 206;
     else positionX = 0;
     document.getElementById('movieList').style.transform = 'translateX(' + positionX + 'px)';
 }
 
-// card
-const language = 'language=pt-BR';
+// card element
+let lang = 'en-En';
 
 function createCard(film) {
 
 
-    const TMDB_BASE_URL = 'https://api.themoviedb.org/3'
-    const API_KEY = 'f9944b541279292b41c8fa75b161aecf'
-    const VITE_POSTER_URL= 'https://image.tmdb.org/t/p/w300'
+    let link = 'https://api.themoviedb.org/3/movie/' + film.id + '?api_key=f9944b541279292b41c8fa75b161aecf&language=' + lang;
 
-    
+    let capa = 'https://image.tmdb.org/t/p/w300' + film.poster_path;
 
-    const link = `${TMDB_BASE_URL}/movie/${movieId}?${language}&api_key=${API_KEY}`;
-
-    const capa = `${VITE_POSTER_URL}${film.poster_path}`;
-
-    const cont_card = document.createElement('div');
+    let cont_card = document.createElement('div');
     cont_card.classList.add('card', 'cont-card', 'border-info');
 
 
-    const cont_image_a = document.createElement('a');
-    cont_image_a.addEventListener('click', () => movieDetalhes(link));
+    let cont_image_a = document.createElement('a');
+    cont_image_a.addEventListener('click', () => showMovieDetails(link));
 
 
-    const cont_image = document.createElement('img');
+    let cont_image = document.createElement('img');
     cont_image.classList.add('card-img-top', 'cont-poster', 'poster');
     cont_image.setAttribute('src', capa)
     cont_image.setAttribute('alt', 'movie poster');
 
 
-    const cont_card_body = document.createElement('div');
+    let cont_card_body = document.createElement('div');
     cont_card_body.classList.add('cont-card-body', 'card-body');
 
 
-    const cont_movie_name_a = document.createElement('a');
-    cont_movie_name_a.addEventListener('click', () =>  movieDetalhes(link));
+    let cont_movie_name_a = document.createElement('a');
+    cont_movie_name_a.addEventListener('click', () => showMovieDetails(link));
 
-    const cont_movie_name = document.createElement('h5');
+    let cont_movie_name = document.createElement('h5');
     cont_movie_name.classList.add('card-title');
     cont_movie_name.innerHTML = film.title;
 
-    const cont_ul = document.createElement('ul');
+    let cont_ul = document.createElement('ul');
     cont_ul.classList.add('list-group', 'list-group-flush', 'cont-list');
 
-    const cont_year = document.createElement('li');
+    let cont_year = document.createElement('li');
     cont_year.classList.add('list-group-item');
     const convertDate = (date) => {
         const dateArr = date.split('-');
@@ -73,11 +69,11 @@ function createCard(film) {
     }
     cont_year.innerHTML = convertDate(film.release_date);
 
-    const cont_rate = document.createElement('li');
+    let cont_rate = document.createElement('li');
     cont_rate.classList.add('list-group-item');
     cont_rate.innerHTML = film.vote_average;
 
-    const rate_star = document.createElement("img");
+    let rate_star = document.createElement("img");
     rate_star.setAttribute('src', 'picture/star.png');
     rate_star.setAttribute('alt', 'movie star');
     rate_star.style.width = '16px';
@@ -98,18 +94,17 @@ function createCard(film) {
 
 
 // fill movie Slider
-async function fillPopularMovies() {
+function fillPopularMovies() {
 
-    const movieList = document.getElementById('movieList');
+    let movieList = document.getElementById('movieList');
     movieList.innerHTML = '';
-
-    await fetch(`${TMDB_BASE_URL}/trending/movie/day?${language}&api_key=${API_KEY}`)
+    fetch('https://api.themoviedb.org/3/movie/popular?api_key=f9944b541279292b41c8fa75b161aecf&language=' + lang + 'N&page=1')
         .then(res => res.json()).then(data => {
             data.results.forEach(film => {
 
-                const listItem = document.createElement('li');
+                let listItem = document.createElement('li');
                 listItem.classList.add('list-group-item', 'border-0');
-                const card = createCard(film);
+                let card = createCard(film);
 
                 movieList.appendChild(listItem);
                 listItem.appendChild(card);
@@ -117,44 +112,45 @@ async function fillPopularMovies() {
         });
 }
 
-// Card dos melhores avaliados.
-async function fillTopRatedMovies() {
+// fill movie Card Group
+function fillTopRatedMovies() {
 
-    const main_content = document.getElementById('main-content');
+    let main_content = document.getElementById('main-content');
     main_content.innerHTML = '';
-    const movieCardGroup = document.createElement('div');
+    let movieCardGroup = document.createElement('div');
     movieCardGroup.classList.add('movie-cards-group');
     main_content.appendChild(movieCardGroup);
 
-    await fetch(`${TMDB_BASE_URL}/movie/top_rated?${language}&api_key=${API_KEY}&${page}`)
+    fetch('https://api.themoviedb.org/3/movie/top_rated?api_key=f9944b541279292b41c8fa75b161aecf&language=' + lang + '&page=' + page)
         .then(res => res.json()).then(data => {
             //  console.log(data); why results?....
             data.results.forEach(film => {
 
-                const card = createCard(film);
+                let card = createCard(film);
                 movieCardGroup.appendChild(card);
 
             })
         });
 }
 
-// Detalhes de filmes
-async function movieDetalhes(link) {
+// Movie details
+function showMovieDetails(link) {
 
-    const modal = new bootstrap.Modal(document.getElementById('movie_detail_modal'), {});
+    let modal = new bootstrap.Modal(document.getElementById('movie_detail_modal'), {});
 
-    return await fetch(link)
+    return fetch(link)
         .then(res => res.json()).then(data => {
 
             console.log(data);
 
-            const detailPoster = document.getElementById('movie_details_poster');
-            const detailOverview = document.getElementById('movie_detail_summary');
-            const detailName = document.getElementById('movie_details_name');
-            const detailRate = document.getElementById('movie_details_rate');
-            const detailSlogan = document.getElementById('movie_detail_slogan');
-            const detailDate = document.getElementById('movie_detail_year');
-            const capa = `${VITE_POSTER_URL}${data.poster_path}`;
+            let detailPoster = document.getElementById('movie_details_poster');
+            let detailOverview = document.getElementById('movie_detail_summary');
+            let detailName = document.getElementById('movie_details_name');
+            let detailRate = document.getElementById('movie_details_rate');
+            let detailSlogan = document.getElementById('movie_detail_slogan');
+            let detailDate = document.getElementById('movie_detail_year');
+
+            let capa = 'https://image.tmdb.org/t/p/w300' + data.poster_path;
 
             const convertDate = (date) => {
                 const dateArr = date.split('-');
@@ -193,11 +189,11 @@ function chanceLang(a, b) {
     document.getElementById('dropdownMenuLink').innerHTML = b;
     lang = a;
 
-    if (a==='pt-BR'){
-        document.getElementById('login').innerText= 'Login';
-        document.getElementById('logout').innerText='Logout';
-        document.getElementById('register').innerText='Usuario';
-        document.getElementById('my_list').innerText='Favoristos';
+    if (a==='tr-TR'){
+        document.getElementById('login').innerText= 'Giriş';
+        document.getElementById('logout').innerText='Oturumu Kapat';
+        document.getElementById('register').innerText='Kayıt Ol';
+        document.getElementById('my_list').innerText='Listem';
     }
 
 
@@ -207,7 +203,7 @@ function chanceLang(a, b) {
 
 
 // Next manin Content
-const page = 1;
+let page = 1;
 
 fillPopularMovies();
 fillTopRatedMovies();

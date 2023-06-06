@@ -8,8 +8,8 @@
     <meta name="description" content="Você pode fazer uma lista de filmes que deseja assistir ou já assistiu.">
     <title>movielist</title>
     <link rel="icon" type="image/png" href="picture/movie.png">
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
@@ -20,7 +20,7 @@
             <div class="container-fluid">
                 <a id="icon_btn" class="navbar-brand" href="">
                     <img src="picture/movie.png" alt="movie" id="icon">
-                    The Movie List
+                    Movie Maker
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" onclick=""
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
@@ -110,18 +110,7 @@
 
 
     <footer class="card-footer ">
-        <p> &copy; m.fuad yerdelen </p>
-        <ul class="list-group list-group-horizontal align-items-center social-ul">
-            <li class="footer-social-item"><a class="social_link" href="#">
-                    <img class="social_media" src="picture/twitter.png" alt="icon_tw">
-                </a></li>
-            <li class="footer-social-item"><a class="social_link" href="#">
-                    <img class="social_media" src="picture/instagram.png" alt="icon_ins">
-                </a></li>
-            <li class="footer-social-item"><a class="social_link" href="#">
-                    <img class="social_media" src="picture/facebook.png" alt="icon_ytb">
-                </a></li>
-        </ul>
+        <p> &copy; @Puc-Minas/turma 12/ Movie_manager </p>
     </footer>
 
 
@@ -143,7 +132,7 @@
 
                                 <h5 class="modal-title" id="movie_details_name"></h5><br>
 
-                                <img id="movie_detail_star" src="/picture/star.png" alt="movie rate star">
+                                <img id="movie_detail_star" src="/src/picture/star.png">
                                 <span id="movie_details_rate"></span>
 
                                 <span id="movie_detail_year"></span><br><br>
@@ -178,16 +167,16 @@
                 <div class="modal-body">
                     <form>
                         <div class="mb-3">
-                            <label for="loginInputEmail1" class="form-label">Email address</label>
+                            <label for="loginInputEmail1" class="form-label">Email</label>
                             <input type="email" class="form-control" id="loginInputEmail1" aria-describedby="emailHelp">
                         </div>
                         <div class="mb-3">
-                            <label for="loginInputPassword1" class="form-label">Password</label>
+                            <label for="loginInputPassword1" class="form-label">Senha</label>
                             <input type="password" class="form-control" id="loginInputPassword1">
                         </div>
 
                         <button type="button" data-bs-dismiss="modal" aria-label="submit button" onclick="login()"
-                            class="btn m-a btn-primary m-auto">Submit</button>
+                            class="btn m-a btn-primary m-auto">Confirmar</button>
                     </form>
                 </div>
 
@@ -220,7 +209,7 @@
                         </div>
 
                         <button onclick="register()" class="btn m-a btn-primary"
-                            aria-label="submit button">Submit</button>
+                            aria-label="submit button">Confirmar</button>
                     </form>
                 </div>
 
@@ -233,8 +222,7 @@
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h5 class="modal-title" id="myAccountModalLabel">Hi <span id="user">User</span>! Make a list of what
-                        you want to watch..</h5>
+                    <h5 class="modal-title" id="myAccountModalLabel">Hi <span id="user">User</span>! Faça uma lista do que quer assistir..</h5>
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
@@ -251,10 +239,10 @@
 
 
 
-    <script src="/js/app.js"></script>
-    <script src="/js/login.js"></script>
-    <script src="/js/movie.js"></script>
-    <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="app.js"></script>
+    <script src="login.js"></script>
+    <script src="movie.js"></script>
+    <script src="bootstrap.bundle.min.js"></script>
 
 
 
