@@ -8,9 +8,9 @@
     width: 40px;
 }
 
-/*header {
-    background-image: linear-gradient(-225deg, #2d2d2d 0%, #5e5e5f 48%, #3d3e3e 100%);
-}*/
+header {
+    background-color: linear-gradient(-225deg, #2d2d2d 0%, #5e5e5f 48%, #fdfefe 100%);
+}
 
 a {
     text-decoration: none;
@@ -81,7 +81,7 @@ ul {
     box-shadow: 0 4px 6px 0 grey,
         0 6px 10px 0 grey;
     cursor: pointer;
-
+    border-color: #5e5e5f;
 }
 
 .cont-card h5 {
@@ -90,6 +90,7 @@ ul {
 
 .card-body {
     padding: 8px;
+    border-color: #5e5e5f;
 }
 
 .poster {
@@ -161,6 +162,11 @@ ul {
     right: 0;
 }
 
+
+#btn-anterior, #btn-proximo{
+    background-color: #5e5e5f;
+
+}
 
 /* footer */
 
