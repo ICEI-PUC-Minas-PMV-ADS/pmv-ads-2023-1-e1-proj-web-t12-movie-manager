@@ -143,12 +143,19 @@ function showMovieDetails(link) {
 
             console.log(data);
 
+            
+            let genrs = [];
+            for (let i in data.genres){
+                genrs.push( data.genres[i].name);
+            }
+
             let detailPoster = document.getElementById('movie_details_poster');
             let detailOverview = document.getElementById('movie_detail_summary');
             let detailName = document.getElementById('movie_details_name');
             let detailRate = document.getElementById('movie_details_rate');
             let detailSlogan = document.getElementById('movie_detail_slogan');
             let detailDate = document.getElementById('movie_detail_year');
+            let detaielGenrs = document.getElementById('movie_details_genrs');
             
 
             let capa = 'https://image.tmdb.org/t/p/w300' + data.poster_path;
@@ -164,6 +171,7 @@ function showMovieDetails(link) {
             detailSlogan.innerHTML = data.tagline;
             detailRate.innerHTML = data.vote_average;
             detailDate.innerHTML = convertDate(data.release_date);
+            detaielGenrs.innerHTML = genrs.join(', ');
 
              
 
@@ -190,11 +198,11 @@ function chanceLang(a, b) {
     document.getElementById('dropdownMenuLink').innerHTML = b;
     lang = a;
 
-    if (a==='tr-TR'){
-        document.getElementById('login').innerText= 'Giriş';
-        document.getElementById('logout').innerText='Oturumu Kapat';
-        document.getElementById('register').innerText='Kayıt Ol';
-        document.getElementById('my_list').innerText='Listem';
+    if (a==='en-EN'){
+        document.getElementById('login').innerText= 'login';
+        document.getElementById('logout').innerText='logout';
+        document.getElementById('register').innerText='register';
+        document.getElementById('my_list').innerText='Minha lista';
     }
 
 
