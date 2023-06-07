@@ -2017,19 +2017,19 @@ progress {
   --bs-table-hover-bg: #c1d6cc;
   --bs-table-hover-color: #000;
   color: #000;
-  border-color: #bcd0c7;
+  border-color: #0a0a0a;
 }
 
 .table-info {
-  --bs-table-bg: #cff4fc;
-  --bs-table-striped-bg: #c5e8ef;
+  --bs-table-bg: #0c0c0c;
+  --bs-table-striped-bg: #0c0c0c;
   --bs-table-striped-color: #000;
-  --bs-table-active-bg: #badce3;
+  --bs-table-active-bg: #0c0c0c;
   --bs-table-active-color: #000;
-  --bs-table-hover-bg: #bfe2e9;
+  --bs-table-hover-bg: #040505;
   --bs-table-hover-color: #000;
   color: #000;
-  border-color: #badce3;
+  border-color: #000000;
 }
 
 .table-warning {

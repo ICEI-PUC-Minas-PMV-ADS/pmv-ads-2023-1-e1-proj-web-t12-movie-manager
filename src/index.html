@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Você pode fazer uma lista de filmes que deseja assistir ou já assistiu.">
     <title>movielist</title>
-    <link rel="icon" type="image/png" href="movie.png">
+    <link rel="icon" type="image/png" href="picture/movie.png">
     <link rel="stylesheet" href="bootstrap.min.css">
     <link rel="stylesheet" href="style.css">
 </head>
@@ -19,8 +19,8 @@
 
             <div class="container-fluid">
                 <a id="icon_btn" class="navbar-brand" href="">
-                    <img src="movie.png" alt="movie" id="icon">
-                    Movie Maker
+                    <img src="picture/movie.png" alt="movie" id="icon">
+                    Movie Manager
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" onclick=""
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
@@ -35,7 +35,7 @@
                     </ul>
                     <a id="mylist_btn" href="" class="d-none" onclick="fillMovieList()" data-bs-toggle="modal"
                         data-bs-target="#myAccountModal">
-                        <img src="Icone-Usuario.png" alt=""> <span id="my_list"> Filmes Favoritos</span>
+                        <img src="picture/user.png" alt=""> <span id="my_list"> Filmes Favoritos</span>
 
                     </a>
 
@@ -131,7 +131,8 @@
                             <div class="col-md-8">
 
                                 <h5 class="modal-title" id="movie_details_name"></h5><br>
-                                <span id="movie_details_genrs"></span><br><br>
+                                <p>Generos:<span id="movie_details_genrs"></span><br><br>
+                                
 
                                 <img id="movie_detail_star" src="picture/star.png">
                                 <span id="movie_details_rate"></span>
@@ -148,8 +149,8 @@
                     </div>
                 </div>
                 <div class="modal-footer">
-                    <button type="button" id="add_movie_btn" class="btn btn-info btn-lg"
-                        aria-label="Add list button">Adicionar a Lista.</button>
+                    <button type="button" id="add_movie_btn" class="btn btn-secondary"
+                        aria-label="Add list button">Adicionar a Lista</button>
                     <button type="button" class="btn btn-secondary" aria-label="close button"
                         data-bs-dismiss="modal">Remover</button>
                 </div>
@@ -223,7 +224,7 @@
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h5 class="modal-title" id="myAccountModalLabel">Hi <span id="user">User</span>! Faça uma lista do que quer assistir..</h5>
+                    <h5 class="modal-title" id="myAccountModalLabel">Olá <span id="user">User</span>! Faça uma lista do que quer assistir..</h5>
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">

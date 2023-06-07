@@ -33,14 +33,14 @@ function login() {
 
 
     if (!!user && user.email === getEmail && user.password === getPassword) {
-        window.alert('Wellcome' + ' ' + user.username)
+        window.alert('Bem Vindo' + ' ' + user.username)
         document.getElementById('login_btn').classList.add('d-none');
         document.getElementById('register_btn').classList.add('d-none');
         document.getElementById('logout_btn').classList.remove('d-none');
         document.getElementById('mylist_btn').classList.remove('d-none');
 
     } else {
-        window.alert('Password ore email is not valid!')
+        window.alert('Senha e/ou email inválido!')
     }
 
     document.getElementById('user').innerText = user.username;

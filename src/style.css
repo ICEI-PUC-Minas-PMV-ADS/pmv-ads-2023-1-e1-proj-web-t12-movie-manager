@@ -17,16 +17,16 @@ a {
     color: black;
 }
 
+a img{
+    width: 30px;
+}
+
 h5 {
     font-size: 1.1em;
 }
 
 ul {
     list-style-type: none;
-}
-
-.btn-btn-info{
- background-color: 
 }
 
 #mylist_btn {
@@ -131,20 +131,6 @@ ul {
 }
 
 
-position: absolute;
-    width: 40px;
-    height: 225px;
-    background-color: transparent 90%;
-    z-index: 99;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    overflow: hidden;
-    cursor: pointer;
-    opacity: 0;
-    transition: all ease 0.5s;
-
-
 .carousel-control-prev-icon, .carousel-control-next-icon{
     position: absolute;
     width: 40px;
@@ -165,13 +151,13 @@ position: absolute;
 }
 
 .carousel-control-prev-icon {
-    background-image: url(proximo.png);
+    background-image: url(picture/proximo.png);
     transform: rotateY(180deg);
     left: 0;
 }
 
 .carousel-control-next-icon {
-    background-image: url(proximo.png);
+    background-image: url(picture/proximo.png);
     right: 0;
 }
 
