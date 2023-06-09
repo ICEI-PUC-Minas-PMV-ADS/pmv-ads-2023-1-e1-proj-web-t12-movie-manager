@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Você pode fazer uma lista de filmes que deseja assistir ou já assistiu.">
-    <title>movielist</title>
+    <title>Movie Manager</title>
     <link rel="icon" type="image/png" href="picture/movie.png">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
@@ -18,10 +18,12 @@
         <nav class="navbar navbar-expand-md navbar-light ">
 
             <div class="container-fluid">
+                <div class="page-title">
                 <a id="icon_btn" class="navbar-brand" href="">
                     <img src="picture/movie.png" alt="movie" id="icon">
                     Movie Manager
                 </a>
+                </div>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" onclick=""
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                     aria-expanded="false" aria-label="Toggle navigation">
@@ -78,8 +80,9 @@
 
         </nav>
     </header>
-
-
+    <br><br>
+    <div class="movie-popular">
+    <h3 id="movie-popular-title"> <strong> Filmes Populares </strong></h3>
     <section id="slider">
         <ul id="movieList" class="list-group list-group-horizontal">
         </ul>
@@ -92,10 +95,12 @@
         </button>
 
     </section>
-
+        </div>
 
     <main>
-
+        <div class="movie-top-rated">
+        <h3 id="movie-popular-title"> <strong> Melhores avaliados </strong><img src="picture/star.png"></h3> 
+        </div>
         <div id="main-content" class="container"></div>
 
         <div class="d-flex mb-2">

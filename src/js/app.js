@@ -123,7 +123,7 @@ function fillTopRatedMovies() {
 
     fetch('https://api.themoviedb.org/3/movie/top_rated?api_key=f9944b541279292b41c8fa75b161aecf&language=' + lang + '&page=' + page)
         .then(res => res.json()).then(data => {
-            //  console.log(data); why results?....
+            //  console.log(data);
             data.results.forEach(film => {
 
                 let card = createCard(film);
