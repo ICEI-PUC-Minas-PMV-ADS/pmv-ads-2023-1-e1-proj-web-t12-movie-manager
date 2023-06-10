@@ -3,6 +3,7 @@
 - Tela Login;
 - Tela de Cadastro de Novo Usuário;
 - Tela Inicial da Aplicação;
+- Tela de Mídia;
 - Tela de Lista.
 
 ### Tela Login
@@ -80,11 +81,35 @@ Instruções de Uso:
 5. Abra o Visual Studio Code selecione a pasta do repositório e execute o Live Server;
 6. Abra um navegador de Internet e informe a seguinte URL: http://127.0.0.1:5500/src/index.html
 
+### Tela de Mídia
+
+A tela de mídia garante ao usuário verificar dados do filme que foi consultado.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-movie-manager/assets/100796561/8ca56a8b-d4ff-4a37-b32c-91c58a05ad83)
+
+
+Requisitos atendidos:
+- RF-004;
+
+Artefatos da funcionalidade:
+- index.html;
+- style.css;
+- app.js.
+
+
+Instruções de Uso:
+1. Instale Git (https://git-scm.com/)
+2. No GitHub, navegue até o repositório que você deseja clonar. Clique no botão _Code_ e copie o URL fornecido;
+3. Abra o terminal ou prompt de comando no seu sistema operacional;
+4. Clone o repositório com o comando "git clone" seguido do URL do repositório que você copiou anteriormente. Isso irá criar uma cópia local do repositório no seu sistema;
+5. Abra o Visual Studio Code selecione a pasta do repositório e execute o Live Server;
+6. Abra um navegador de Internet e informe a seguinte URL: http://127.0.0.1:5500/src/index.html
+
 ### Tela de Lista
 
 A tela de lista garante ao usuário verificar os filmes que ele adicionou como favoritos de forma a garantir uma melhor documentação dos conteúdos que foram marcados.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-movie-manager/assets/100796561/e00a7cad-fc06-462f-8faf-f6e159357978)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-movie-manager/assets/100796561/4076c9bd-c0bb-49cd-a662-5a1165f17a53)
 
 
 Requisitos atendidos:
@@ -93,11 +118,7 @@ Requisitos atendidos:
 Artefatos da funcionalidade:
 - index.html;
 - style.css;
-- app.js.
-
-Estrutura de dados:
-
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-movie-manager/assets/100796561/62a54add-2bf9-45b9-baac-406789492fb3)
+- movie.js.
 
 
 Instruções de Uso:
