@@ -9,7 +9,7 @@ Nesse contexto, é importante ao consumidor de conteúdos audiovisuais dispor de
 
 ## Problema
 
-Esse projeto busca resolver o problema de entusiastas de cinema que não têm um histórico de filmes assistidos nem uma lista de filmes que desejam assistir. Sem um registro, pode ser difícil lembrar de todos os filmes que foram assistidos ao longo dos anos e assim perder a oportunidade de compartilhar opiniões e discutir filmes com mais facilidade.
+Esse projeto busca resolver o problema de entusiastas de cinema que não têm um histórico de filmes favoritos. Sem um registro, pode ser difícil lembrar de todos os filmes que foram assistidos ao longo dos anos e assim perder a oportunidade de compartilhar opiniões e discutir filmes com mais facilidade.
 
 ## Objetivos
 
