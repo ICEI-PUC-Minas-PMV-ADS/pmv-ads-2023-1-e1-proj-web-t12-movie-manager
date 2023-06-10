@@ -33,5 +33,5 @@ Resultado: Após adicionar os filmes selecionados na lista desejada, a aplicaç�
 
 ## Avaliação
 
-Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
+Inicialmente, verificamos que os testes correram de forma regular com o que foi proposto pelo grupo. Todavia, posteriormente, notamos que o sistema carece de uma robustez para verificar a validade de endereços de e-mail que são registrados por usuários. Também será objeto de tentativa de melhoria, no campo de validação do usuário quando do registro, o pedido para que o usuário digite a senha cadastrada duas vezes para fins de segurança. No mais, buscaremos aumentar a fluidez das transições e velocidade em geral do sistema.
 
