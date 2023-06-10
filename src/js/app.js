@@ -93,7 +93,7 @@ function createCard(film) {
 }
 
 
-// fFilmes Populares
+// Filmes Populares
 function fillPopularMovies() {
 
     let movieList = document.getElementById('movieList');
