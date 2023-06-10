@@ -98,6 +98,7 @@ Essa foi a divisão:
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-movie-manager/assets/100796561/b71dc81c-0557-4205-b50f-f71e6982ee74)
 
 - Evidências: O grupo estruturou e entregou no dia 11/06/2023 as demais funcionalidades e o registro do teste.
+- [Reunião 15/05](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-movie-manager/assets/100796561/5b0539f4-b194-4601-b139-f6c74c68ce9b)
 - [Reunião 18/05](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-movie-manager/assets/100796561/00a771dd-0512-4d5b-bcb0-b6dccae4997f)
 - [Reunião 05/06](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-movie-manager/assets/100796561/e4b10590-2d5a-4074-bb18-93bb2f4d572f)
 - [Reunião 09/06](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-movie-manager/assets/100796561/ff478752-c236-412d-b245-7dd1fed35542)
