@@ -1,0 +1,275 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,300&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+.page-title{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    margin-left: 40%;
+}
+
+#icon {
+    width: 40px;
+}
+
+header {
+    background-color: linear-gradient(-225deg, #2d2d2d 0%, #5e5e5f 48%, #fdfefe 100%);
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a img{
+    width: 30px;
+}
+
+h5 {
+    font-size: 1.1em;
+}
+
+ul {
+    list-style-type: none;
+}
+
+#mylist_btn {
+    margin-right: 20px;
+}
+
+#mylist_btn img {
+    width: 30px;
+}
+
+
+#movie-popular-title{
+    margin-left: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: #2b2b2c;
+
+    
+}
+
+
+#slider {
+    display: flex;
+    position: relative;
+    overflow-x: hidden;
+    padding-top: 15px;
+    height: 500px;
+}
+
+
+#slider .cont-card:hover {
+    transform: scale(1.1);
+    transition-duration: .3s;
+}
+
+
+
+.container {
+    padding: 20px !important;
+}
+
+
+
+.movie-cards-group {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+
+
+
+/* card  */
+
+.cont-card {
+    border-color: #2d2d2d;
+    min-width: 200px;
+    max-width: 200px;
+    margin: 10px;
+    align-items: stretch;
+    box-shadow: 0 4px 6px 0 grey,
+        0 6px 10px 0 grey;
+    cursor: pointer;
+    border-color: #5e5e5f;
+}
+
+.cont-card h5 {
+    max-height: 1rem;
+}
+
+.card-body {
+    padding: 8px;
+    border-color: #5e5e5f;
+}
+
+.poster {
+
+    height: auto;
+    width:100%;
+    transform: scale(0.8);
+    transition: all ease 0.25
+}
+
+.list-group-item {
+    padding: 0;
+}
+
+#movieList {
+    transition: transform .5s;
+    
+}
+
+
+
+/*   carousel buttons   */
+
+.carousel-control-next {
+    position: absolute;
+    width: 100px;
+    height: 200px;
+    top: calc(50% - 100px);
+    justify-content: center;
+}
+
+.carousel-control-prev {
+    position: absolute;
+    width: 100px;
+    height: 200px;
+    top: calc(50% - 100px);
+    justify-content: center;
+    
+}
+
+
+.carousel-control-prev-icon, .carousel-control-next-icon{
+    position: absolute;
+    width: 40px;
+    height: 225px;
+    background-color: transparent;
+    z-index: 99;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    cursor: pointer;
+    opacity: 0;
+    transition: all ease 0.5s;
+    }
+
+.carousel-control-prev-icon:hover, .carousel-control-next-icon:hover{    
+    opacity: 1;
+}
+
+.carousel-control-prev-icon {
+    background-image: url(/src/picture/proximo.png);
+    transform: rotateY(180deg);
+    left: 0;
+}
+
+.carousel-control-next-icon {
+    background-image: url(/src/picture/proximo.png);
+    right: 0;
+}
+
+
+#btn-anterior, #btn-proximo{
+    background-color: #5e5e5f;
+
+}
+
+/* footer */
+
+.card-footer {
+    clear: both;
+    background-image: linear-gradient(-225deg, #2d2d2d 0%, #5e5e5f 48%, #3d3e3e 1);
+    height: 100px;
+    
+}
+
+
+.movie-top-rated img{
+    width: 20px;
+    align-items: center;
+    
+    
+}
+
+
+/* Movie Details */
+
+
+#movie_details_media {
+    width: 230px;
+}
+
+#movie_details_poster {
+    width: 100%;
+    height: auto;
+    font-family: 'Roboto', sans-serif;
+}
+
+#movie_detail_star {
+    width: 16px;
+}
+
+#movie_detail_year {
+    margin-left: 30px;
+}
+
+#movie_detail_slogan {
+    font-style: italic;
+}
+
+#movie_detail_summary {
+    text-indent: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.modal-body article {
+    margin-left: 12px;
+}
+
+
+/* mobile devices */
+
+@media (max-width: 768px) {
+
+    .card:hover {
+        transform: scale(1);
+    }
+
+    #movie_details_poster {
+        display: block;
+        margin: auto;
+        width: 220px;
+        height: auto;
+    }
+
+    #movie_details_name {
+        text-align: center;
+    }
+}
+
+
+
+#movie_list li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 2px;
+}
+
+#add_movie {
+    margin: auto;
+}
+
+form {
+    text-align: center;
+    color: black;
+}
