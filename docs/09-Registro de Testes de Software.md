@@ -9,6 +9,8 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 Resultado: Após realizar o _login_, a aplicação fornece uma mensagem de Bem-Vindo ao usuário é feito o encaminhamento para tela inicial da aplicação.
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-movie-manager/assets/100796561/87de96dd-5514-489f-90ea-5f986aeedec3)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-movie-manager/assets/100796561/8aae4254-cbc3-400d-b516-752e3a17cb7f)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-movie-manager/assets/100796561/83a36171-1b53-485c-b1bd-727e58243734)
+
 
 ## Registro Testes Registro de Novo Usuário
 
