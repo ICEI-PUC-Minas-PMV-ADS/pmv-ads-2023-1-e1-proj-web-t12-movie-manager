@@ -4,9 +4,31 @@
 
 Relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado em um plano de testes pré-definido.
 
+## Registro Testes _Login_
+
+Resultado: Após realizar o _login_, a aplicação fornece uma mensagem de Bem-Vindo ao usuário é feito o encaminhamento para tela inicial da aplicação.
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-movie-manager/assets/100796561/87de96dd-5514-489f-90ea-5f986aeedec3)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-movie-manager/assets/100796561/8aae4254-cbc3-400d-b516-752e3a17cb7f)
+
+## Registro Testes Registro de Novo Usuário
+
+Resultado: Após a criação do novo usuário, é feito o encaminhamento para tela inicial da aplicação.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-movie-manager/assets/100796561/11149fa7-482b-4bf0-8adc-be5e8fd574fb)
+
+
+## Registro de Testes Tela Inicial
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-movie-manager/assets/100796561/757081fd-8db2-427f-be4b-c875b5f28016)
+
+## Registro de Testes Página de Mídia
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-movie-manager/assets/100796561/48947625-729a-4d95-83ca-8271685dac73)
+
+## Registro de Testes Tela de Lista
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-movie-manager/assets/100796561/ed2dc5a0-7cfa-4fb2-bfe5-62f3449fd72b)
+
 ## Avaliação
 
 Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
