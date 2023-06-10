@@ -19,14 +19,14 @@ Resultado: Após a criação do novo usuário, é feito o encaminhamento para te
 
 ## Registro de Testes Tela Inicial
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-movie-manager/assets/100796561/757081fd-8db2-427f-be4b-c875b5f28016)
+
 
 ## Registro de Testes Página de Mídia
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-movie-manager/assets/100796561/48947625-729a-4d95-83ca-8271685dac73)
+
 
 ## Registro de Testes Tela de Lista
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-movie-manager/assets/100796561/ed2dc5a0-7cfa-4fb2-bfe5-62f3449fd72b)
+
 
 ## Avaliação
 
