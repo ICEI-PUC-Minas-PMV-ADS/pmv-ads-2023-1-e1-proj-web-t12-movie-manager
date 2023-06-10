@@ -27,6 +27,9 @@ Resultado: Após a criação do novo usuário, é feito o encaminhamento para te
 
 ## Registro de Testes Tela de Lista
 
+Resultado: Após adicionar os filmes selecionados na lista desejada, a aplicação mostra os filmes em forma ordenada.
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-movie-manager/assets/100796561/c137ea52-af9a-4f63-b7df-80d9931a07fe)
+
 
 ## Avaliação
 
