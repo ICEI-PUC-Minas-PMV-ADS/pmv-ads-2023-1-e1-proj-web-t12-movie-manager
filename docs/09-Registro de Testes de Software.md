@@ -19,16 +19,27 @@ Resultado: Após a criação do novo usuário, é feito o encaminhamento para te
 
 ## Registro de Testes Tela Inicial
 
+Resultado: Após a validação do usuário da aplicação é realizado o encaminhamento para tela inicial.
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-movie-manager/assets/100796561/aba5be71-2438-47dc-86b9-517de22ec717)
+
 
 
 ## Registro de Testes Página de Mídia
+Resultado: Após o usuário selecionar um filme, é aberto a página de mídia do filme com os dados dele bem como a opção de adicionar o filme a lista.
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-movie-manager/assets/100796561/4cb785f0-8c0c-4bb9-b80e-738693923719)
 
 
 ## Registro de Testes Tela de Lista
 
 Resultado: Após adicionar os filmes selecionados na lista desejada, a aplicação mostra os filmes em forma ordenada.
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-movie-manager/assets/100796561/c137ea52-af9a-4f63-b7df-80d9931a07fe)
+
+
+## Teste de Navegabilidade
+
+Objetivo do teste é para averiguar a navegabilidade dos links e garantir que todos estejam corretos e funcionando na medida em que foram pensados. Os testes em questão foram realizados usando uma ferramenta online chamada Datayze (https://datayze.com/site-navigability-analyzer)verificando, inclusive, a indexabilidade do site:
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-movie-manager/assets/100796561/c01c8323-136c-4cac-af17-730650bc95d6)
 
 
 ## Avaliação
