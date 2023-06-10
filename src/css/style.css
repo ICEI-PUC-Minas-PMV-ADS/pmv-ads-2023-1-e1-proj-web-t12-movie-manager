@@ -85,7 +85,7 @@ ul {
 
 
 
-/* card  */
+/* Card  */
 
 .cont-card {
     border-color: #2d2d2d;
@@ -127,7 +127,7 @@ ul {
 
 
 
-/*   carousel buttons   */
+/*   Botões carrousel   */
 
 .carousel-control-next {
     position: absolute;
@@ -194,7 +194,7 @@ ul {
     
 }
 
-/* Movie Details */
+/* Detalhes dos filmes */
 
 
 #movie_details_media {
@@ -229,7 +229,7 @@ ul {
 }
 
 
-/* mobile devices */
+/* responsividade */
 
 @media (max-width: 768px) {
 
