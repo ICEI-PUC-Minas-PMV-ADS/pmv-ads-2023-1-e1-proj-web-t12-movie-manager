@@ -1,4 +1,4 @@
-// slider function
+// Função do card 
 
 // api_key = f9944b541279292b41c8fa75b161aecf
 
@@ -23,7 +23,7 @@ function _crsRight() {
     document.getElementById('movieList').style.transform = 'translateX(' + positionX + 'px)';
 }
 
-// card element
+// Card
 let lang = 'pt-BR';
 
 function createCard(film) {
@@ -93,7 +93,7 @@ function createCard(film) {
 }
 
 
-// fill movie Slider
+// fFilmes Populares
 function fillPopularMovies() {
 
     let movieList = document.getElementById('movieList');
@@ -112,7 +112,7 @@ function fillPopularMovies() {
         });
 }
 
-// fill movie Card Group
+// Filmes melhores avaliados
 function fillTopRatedMovies() {
 
     let main_content = document.getElementById('main-content');
@@ -133,7 +133,7 @@ function fillTopRatedMovies() {
         });
 }
 
-// Movie details
+// Detalhes de filmes
 function showMovieDetails(link) {
 
     let modal = new bootstrap.Modal(document.getElementById('movie_detail_modal'), {});
@@ -193,7 +193,7 @@ function showMovieDetails(link) {
 }
 
 
-// Chance language
+// Alterar linguagem
 function chanceLang(a, b) {
     document.getElementById('dropdownMenuLink').innerHTML = b;
     lang = a;
@@ -211,7 +211,7 @@ function chanceLang(a, b) {
 }
 
 
-// Next manin Content
+// Alterar lista de melhores avaliados
 let page = 1;
 
 fillPopularMovies();
