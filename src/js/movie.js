@@ -43,7 +43,7 @@ function fillMovieList() {
 
         let removeButton = document.createElement('button');
         removeButton.classList.add('btn-danger');
-        removeButton.innerText = 'remove';
+        removeButton.innerText = 'remover';
         removeButton.addEventListener('click', () => {
             user.movieList = user.movieList.filter(m => m.id !== movie.id);
             localStorage.setItem(user.email, JSON.stringify(user));
