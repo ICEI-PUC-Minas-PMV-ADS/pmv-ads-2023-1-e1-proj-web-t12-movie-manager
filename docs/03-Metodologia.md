@@ -104,11 +104,11 @@ Essa foi a divisão:
 - [Reunião 09/06](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-movie-manager/assets/100796561/ff478752-c236-412d-b245-7dd1fed35542)
 
 #### Sprint 5
-- Planejamento:
-- Execução:
-- Evidências:
+- Planejamento: Após entregar a documentação inerente ao quarto _sprint_, os membros do grupo se reuniram para planejarmos o próximo _sprint_ da aplicação. Planejamos pela publicação do site, gravação da aplicação e, por fim, o _slide_do projeto. 
+- Execução: Com o acréscimo do uso do _microsoft powerpoint_ e ferramenta de gravação de tela, o grupo realizou os trabalhos que foram planejados da seguinte forma:
+  ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-movie-manager/assets/100796561/7068d806-8e7b-4911-bd47-1bebc6ed0789)
 
- 
+- Evidências: LEMBRAR DE LINKAR O VÍDEO E OS SLIDES E OS PRINTS DAS REUNIÕES.
 
 ### Ferramentas
 
@@ -118,6 +118,7 @@ As ferramentas empregadas no projeto são:
 - Ferramentas de comunicação: Microsoft Teams e Whatsapp.
 - Ferramentas de desenho de tela (_wireframing_): Figma.
 - Plataforma de elaboração visual (_Userflow_): Canva.
+- Plataforma de elaboração da apresentação: Microsoft PowerPoint.
 
 O editor de código foi escolhido porque ele possui uma integração com o
 sistema de versão. As ferramentas de comunicação utilizadas possuem
