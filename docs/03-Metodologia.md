@@ -110,6 +110,7 @@ Essa foi a divisão:
 
 - Evidências: LEMBRAR DE LINKAR O VÍDEO E OS SLIDES E OS PRINTS DAS REUNIÕES. O grupo estruturou e entregou no dia 25/06/2023 a apresentação do projeto.
 - [Reunião 13/06](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-movie-manager/assets/100796561/243ffbc3-f57e-45b3-a7a6-27d5028343a9)
+- [Reunião 23/06](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t12-movie-manager/assets/100796561/bc3e8700-ec44-46af-b7c0-d28fa18ca2b0)
 
 
 ### Ferramentas
